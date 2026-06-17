@@ -1,0 +1,110 @@
+Português
+1 - Execute todos os script da pasta SQL
+
+2 - Adicione as novas EventItemBags do evento e o EventBagManager.txt
+
+3 - Atualize o GameServerInfo - Event.dat com as novas linhas dos evento
+;==================================================
+; Arca Battle Event
+;==================================================
+ArcaBattleEvent = 1
+ArcaBattleMinGuild = 2
+ArcaBattleMinGuildMember = 1
+ArcaBattleMaxGuildMember = 20
+
+;==================================================
+; Acheron Guardian Event Settings
+;==================================================
+AcheronGuardianEvent = 1
+AcheronGuardianEventTime = 30
+
+4 - Coloque o novo arquivo ArcaBattleMonsterSetBase.txt na pasta data/monster
+
+5 - Coloque ou ative o Npc Sr Lenister no seu monstersetbase
+584 0   0   114 132 3       // Sir.Lesnar (Lorencia)
+584 2   0   240 53  7       // Sir.Lesnar (Devias)
+584 3   0   183 126 2       // Sir.Lesnar (Noria)
+ 
+6 - Atualize seu Message_xxx.txt
+
+7 - Atualize o dataserver/gamserver e use o novo maininfo
+
+8 - Coloque os novos arquivos ArcaBattle.dat e AcheronGuardian.dat na pasta data/event
+
+9 - Verifique seu effect.txt
+179       103     *           "Arca Battle Reward 1"               0      0      0      *       25       5        20       10
+180       104     *           "Arca Battle Reward 2"               0      0      0      *       50       5        20       10
+181       105     *           "Arca Battle Reward 3"               0      0      0      *       5        5        20       10
+182       106     *           "Arca Battle Reward 4"               0      0      0      *       30       5        20       10
+183       107     *           "Arca Battle Reward 5"               0      0      0      *       10       5        20       10
+184       108     *           "Arca Battle Penalty"                0      1      1      *       *        *        *        *
+186       109     *           "Pentagram Debuff Slow"              1      0      1      *       *        *        *        *
+187       110     *           "Arca Battle Reward 6"               1      1      0      *       20       10       *        *
+
+10 - Verifique seu ItemStack.txt 
+6803      10         *             //Trophies of Battle
+
+11 - Verifique seu MapManager.txt
+91        *       12          100              100            1000              0                 1                1              0             1               0       1       0       0       1       1       0       417     "Acheron 1"
+92        *       12          100              100            1000              0                 1                1              0             1               0       1       0       0       1       1       0       426     "Acheron 2"
+95        *       12          100              100            1000              0                 1                1              0             1               0       1       0       0       1       1       0       417     "Deventer 1"
+96        *       12          100              100            1000              0                 1                1              0             1               0       1       0       0       1       1       0       426     "Deventer 2"
+
+12 - Coloque os novos arquivos ArcaBattleMonsterSetBase.txt na pasta data/monster
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+English:
+1 - Run all scripts from the SQL folder
+
+2 - Add the new EventItemBags of the event and the EventBagManager.txt
+
+3 - Update GameServerInfo - Event.dat with new event lines
+;==================================================
+; Arca Battle Event
+;==================================================
+ArcaBattleEvent = 1
+ArcaBattleMinGuild = 2
+ArcaBattleMinGuildMember = 1
+ArcaBattleMaxGuildMember = 20
+
+;==================================================
+; Acheron Guardian Event Settings
+;==================================================
+AcheronGuardianEvent = 0
+AcheronGuardianEventTime = 30
+
+4 - Place the new ArcaBattleMonsterSetBase.txt file in the data/monster folder
+
+5 - Put or activate the Sr Lenister Npc on your monstersetbase
+584 0   0   114 132 3       // Sir.Lesnar (Lorencia)
+584 2   0   240 53  7       // Sir.Lesnar (Devias)
+584 3   0   183 126 2       // Sir.Lesnar (Noria)
+ 
+6 - Update your Message_xxx.txt
+
+7 - Update the Dataserver/Gamserver and use the new maininfo
+
+8 - Place the new ArcaBattle.dat and AcheronGuardian.dat files in the data/event folder
+
+9 - Check your effect.txt
+179       103     *           "Arca Battle Reward 1"               0      0      0      *       25       5        20       10
+180       104     *           "Arca Battle Reward 2"               0      0      0      *       50       5        20       10
+181       105     *           "Arca Battle Reward 3"               0      0      0      *       5        5        20       10
+182       106     *           "Arca Battle Reward 4"               0      0      0      *       30       5        20       10
+183       107     *           "Arca Battle Reward 5"               0      0      0      *       10       5        20       10
+184       108     *           "Arca Battle Penalty"                0      1      1      *       *        *        *        *
+186       109     *           "Pentagram Debuff Slow"              1      0      1      *       *        *        *        *
+187       110     *           "Arca Battle Reward 6"               1      1      0      *       20       10       *        *
+
+10 - Check your ItemStack.txt
+6803      10         *             //Trophies of Battle
+
+11 - Check your MapManager.txt
+91        *       12          100              100            1000              0                 1                1              0             1               0       1       0       0       1       1       0       417     "Acheron 1"
+92        *       12          100              100            1000              0                 1                1              0             1               0       1       0       0       1       1       0       426     "Acheron 2"
+95        *       12          100              100            1000              0                 1                1              0             1               0       1       0       0       1       1       0       417     "Deventer 1"
+96        *       12          100              100            1000              0                 1                1              0             1               0       1       0       0       1       1       0       426     "Deventer 2"
+
+12 - Place the new ArcaBattleMonsterSetBase.txt files in the data/monster folder

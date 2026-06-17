@@ -1,0 +1,4 @@
+ALTER TABLE Guild ADD GuildPoint int NOT NULL DEFAULT (0)
+
+
+

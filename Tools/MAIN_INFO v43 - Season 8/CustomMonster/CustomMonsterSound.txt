@@ -1,0 +1,19 @@
+//==========================================================
+// See in https://www.youtube.com/watch?v=yDNjapXucjc
+//==========================================================
+// Type = 0: Npc 1
+// Type = 1: Npc 2
+// Type = 2: Monster Move
+// Type = 3: Monster Attack1
+// Type = 4: Monster Attack2
+// Type = 6: Monster Death
+//
+// Folder Data/Sound
+//==========================================================
+// MonsterID   Type   FileName
+//==========================================================
+// 678         2      "Nix_skill_DevilIce_V"
+// 678         3      "Nix_skill_IceBoom_Ice"
+// 678         4      "Nix_skill_knowledge"
+// 678         6      "mBalrogDie"
+end

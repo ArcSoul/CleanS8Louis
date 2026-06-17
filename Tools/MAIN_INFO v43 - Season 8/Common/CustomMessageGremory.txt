@@ -1,0 +1,50 @@
+0
+//=======================================
+// ENGLISH
+//=======================================
+// Index   Message
+//=======================================
+   1       "Blood Castle Event"
+   2       "Devil Square Event"
+   3       "Illusion Temple Event"
+   4       "Chaos Castle Event"
+   5       "Quest Reward"
+   6       "Reset Reward"
+   7       "Master Reset Reward"
+   8       "Online Reward"
+   9       "Events Reward"
+end
+
+1
+//=======================================
+// PORTUGUESE
+//=======================================
+// Index   Message
+//=======================================
+   1       "Evento do Blood Castle"
+   2       "Evento do Devil Square"
+   3       "Evento do Illusion Temple"
+   4       "Evento do Chaos Castle"
+   5       "Recompensas por Missões"
+   6       "Recompensa por Reiniciar"
+   7       "Recompensas de Master Reiniciar"
+   8       "Recompensas por Online"
+   9       "Recompensa por Eventos"
+end
+
+2
+//=======================================
+// SPANISH
+//=======================================
+// Index   Message
+//=======================================
+   1       "Evento de Blood Castle"
+   2       "Evento de Devil Square"
+   3       "Evento de Illusion Temple"
+   4       "Evento de Chaos Castle"
+   5       "Recompensa por Mision"
+   6       "Recompensa por Reinicio"
+   7       "Recompensa por M.Reinicio"
+   8       "Recompensa por Online"
+   9       "Recompensa por Eventos"
+end

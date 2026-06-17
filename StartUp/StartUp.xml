@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StartUp>
+  <Process Run="True" Delay="1000" Path="..\1 - ConnectServer\ConnectServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="..\2 - JoinServer\JoinServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="..\3 - DataServer\DataServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="..\5 - GameServer\GameServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="..\6 - GameServerCS\GameServer.exe" Parameters="" />
+  <Process Run="true" Delay="1000" Path="..\7 - MHPServer\MHPServer.exe" Parameters="" />
+</StartUp>

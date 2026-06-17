@@ -1,0 +1,68 @@
+//=================================================================================================================
+// System to add and control the skills in the Custom attack system (By Louis)
+//=================================================================================================================
+// - Skill      = Skill Number
+// - Delay      = Default value for calculating attack time
+// - MinDelay   = Mix Skill delay
+// - Type:
+//   1 = Normal Attack | 2 = Multiple Attack | 3 = Duration Attack | 4 = RF Attack (Not for all)
+//=================================================================================================================
+// Skill    Type    Delay    MinDelay     Descripcion
+//=================================================================================================================
+   76       3       1000     120          //FENRIR - Plasma
+   43       1       800      120          //BK - Stab
+   41       3       600      120          //BK - Twister Slash 
+   42       3       1000     120          //BK - Blow
+   232      3       1000     120          //BK - Gelo
+   9        2       800      120          //SM - Evil Spirit  
+   5        2       1000     120          //SM - Flame
+   13       2       1000     120          //SM - Blast
+   14       2       600      120          //SM - Inferno
+   12       2       1000     120          //SM - Aqua
+   10       2       600      120          //SM - Hellfire
+   8        2       1000     120          //SM - Twister
+   39       3       600      120          //SM - Ice Storm
+   38       3       600      120          //SM - Decay
+   1        1       800      120          //SM - Poison
+   2        1       800      120          //SM - Meteorite
+   17       1       800      120          //SM - EnergyBall
+   3        1       800      120          //SM - Light
+   11       1       800      120          //SM - Power WAVE
+   7        1       800      120          //SM - Ice
+   236      3       600      120          //MG - Flame Strick
+   55       2       600      120          //MG - Fire Slash
+   56       3       600      120          //MG - Power SLASH
+   237      3       600      120          //MG - Light
+   24       2       600      120          //ME - Triple
+   26       3       800      120          //ME - Heal
+   52       2       600      120          //ME - Penatrati
+   51       1       600      120          //ME - Ice Arrow
+   235      2       600      120          //ME - Multi Shot
+   60       1       600      120          //DL - Force
+   61       1       800      120          //DL - Fire Bust
+   62       3       10000    120          //DL - Cavalada
+   65       3       5000     120          //DL - Eletrick
+   78       2       800      120          //DL - Fire Scream
+   238      3       600      120          //DL - Chaotic
+   221      3       3000     120          //SU - Lesser Damage
+   222      3       3000     120          //SU - Lesser Defense
+   215      3       500      120          //SU - Chain Light
+   230      3       1000     200          //SU - Pulo
+   214      3       500      120          //SU - Drain Life
+   223      3       3000     120          //SU - Sahamut
+   224      3       3000     120          //SU - Neil
+   225      3       3000     120          //SU - Ghost
+   260      1       600      120          //RF - Killing
+   262      1       1000     200          //RF - Chain Driver
+   270      2       1000     200          //RF - Phoenix Shot
+   263      3       650      300          //RF - Dark Side
+   264      3       1200     200          //RF - Dragon Roar
+   265      1       3000     120          //RF - Dragon Slayer
+   21       1       900      120          //SKILL - Uppercut 
+   22       1       930      120          //SKILL - Clycone
+   23       1       930      120          //SKILL - Slash
+   20       1       900      120          //SKILL - Lunge   
+   47       1       1000     120          //SKILL - Impale
+   260      1       980      300          //SKILL - Large Ring Blower
+   261      1       980      300          //SKILL - Upper Beast
+end

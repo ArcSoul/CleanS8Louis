@@ -1,0 +1,37 @@
+//======================================
+// Map   Red   Green   Blue   MapName
+//======================================
+   0     211   212     168    //Lorencia
+   2     224   255     255    //Devias
+   3     146   206     155    //Noria
+   51    208   203     191    //Elbeland
+   7     129   212     195    //Atlans
+   10    113   203     255    //Icarus
+   33    113   132     79     //Aida
+   34    68    63      40     //Crywolf
+   41    74    0       0      //Barracks
+   56    255   238     94     //Swamp of Calmness
+   57    25    103     224    //Raklion 1
+   58    25    103     224    //Raklion 2
+   45    186   250     42     //Illusion Temple 1
+   46    186   250     42     //Illusion Temple 2
+   47    186   250     42     //Illusion Temple 3
+   48    186   250     42     //Illusion Temple 4
+   49    186   250     42     //Illusion Temple 5
+   50    186   250     42     //Illusion Temple 6
+   11    208   203     191    //Blood Castle 1
+   12    208   203     191    //Blood Castle 2
+   13    208   203     191    //Blood Castle 3
+   14    208   203     191    //Blood Castle 4
+   15    208   203     191    //Blood Castle 5
+   16    208   203     191    //Blood Castle 6
+   17    208   203     191    //Blood Castle 7
+   52    208   203     191    //Blood Castle 8
+   24    13    75      119    //Kalima 1
+   25    13    75      119    //Kalima 2
+   26    13    75      119    //Kalima 3
+   27    13    75      119    //Kalima 4
+   28    13    75      119    //Kalima 5
+   29    13    75      119    //Kalima 6
+   36    13    75      119    //Kalima 7
+end

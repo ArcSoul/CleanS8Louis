@@ -1,0 +1,57 @@
+//====================================================
+// Custom Monster Top Hit 
+//====================================================
+// Shows the monster damage rank in the client-side
+// Max 20 per rank
+//====================================================
+// MonsterIndex   MaxRank   MonsterName
+//====================================================
+   361            5         //Nightmare
+   362            5         //Maya Hand - NIGHTMARE
+   363            5         //Maya Hand - NIGHTMARE
+   459            5         //Selupan
+   55             5         //Death King - SKELETON KING
+   42             5         //Red Dragon
+   135            5         //White Wizard
+   365            5         //Pouch of Blessing - NEW YEAR
+   413            5         //Lunar Rabbit - RABBITS
+   463            5         //Fire Flame Ghost - SUMMER
+   476            5         //Cursed Santa - CHRISTMAS
+   561            5         //Medusa
+   340            5         //Dark Elf - EVENTO CRYWOLF
+   341            5         //Soram - EVENTO CRYWOLF
+   344            5         //Balram - EVENTO CRYWOLF
+   345            5         //Death spirit - EVENTO CRYWOLF
+   348            5         //Tanker - EVENTO CRYWOLF
+   349            5         //Balgass - EVENTO CRYWOLF
+   529            5         //Furious Slaughterer - DOPPELGANGER
+   530            5         //Slaughterer - DOPPELGANGER
+   531            5         //Ice Walker - DOPPELGANGER
+   504            5         //Gaion Kharein - FORTRESS OF IMPERIAL GUARDIAN
+   505            5         //Jerint - FORTRESS OF IMPERIAL GUARDIAN
+   506            5         //Raymond - FORTRESS OF IMPERIAL GUARDIAN
+   507            5         //Erkanne - FORTRESS OF IMPERIAL GUARDIAN
+   508            5         //Destler - FORTRESS OF IMPERIAL GUARDIAN
+   509            5         //Vermont - FORTRESS OF IMPERIAL GUARDIAN
+   510            5         //Kato - FORTRESS OF IMPERIAL GUARDIAN
+   511            5         //Galia - FORTRESS OF IMPERIAL GUARDIAN
+   295            5         //Erohim - LOREN DEEP
+   43             5         //Golden Budge Dragon - GOLDEN INVASION
+   54             5         //Golden Soldier - GOLDEN INVASION
+   78             5         //Golden Goblin - GOLDEN INVASION
+   493            5         //Golden Dark Knight - GOLDEN INVASION
+   502            5         //Golden Rabbit - GOLDEN INVASION
+   53             5         //Golden Titan - GOLDEN INVASION
+   80             5         //Golden Lizard King - GOLDEN INVASION
+   81             5         //Golden Vepar - GOLDEN INVASION
+   494            5         //Golden Devil - GOLDEN INVASION
+   82             5         //Golden Tantalos - GOLDEN INVASION
+   83             5         //Golden Wheel - GOLDEN INVASION
+   495            5         //Golden Stone Golem - GOLDEN INVASION
+   496            5         //Golden Crust - GOLDEN INVASION
+   497            5         //Golden Satyros - GOLDEN INVASION
+   498            5         //Golden Twin Tail - GOLDEN INVASION
+   499            5         //Golden Iron Knight - GOLDEN INVASION
+   500            5         //Golden Napin - GOLDEN INVASION
+   79             5         //Golden Derkon - GOLDEN INVASION
+   501            5         //Great Golden Dragon - GOLDEN INVASION

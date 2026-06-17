@@ -1,0 +1,36 @@
+//=================================================================================================================
+// System that conducts a lottery among all online users, dropping items to the winner
+// Lottery conducted according to the schedule and rewards below
+// - Note1: If you start the event through the GS menu, the reward value will correspond to index 0.
+// - Note2: The item drop is according to the Event item bag Lottery.txt
+//=================================================================================================================
+
+
+0
+//=================================================================
+// Schedule
+//=================================================================
+// Index   Year   Month   Day   DoW   Hour   Minute   Second
+//=================================================================
+   0       *      *       *     *     *      36       0
+end
+
+
+1
+//=======================================================================
+// Lottery info
+//=======================================================================
+// Index   Name                                 DropMap      AlarmTime
+//=======================================================================
+   0       "Sorteio Online"                     0            5
+end
+
+
+2
+//=================================
+// Rewards
+//=================================
+// Index   WC      WP      GP
+//=================================
+   0       10      0       0
+end

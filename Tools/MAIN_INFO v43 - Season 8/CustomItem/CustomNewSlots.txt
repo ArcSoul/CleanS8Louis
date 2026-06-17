@@ -1,0 +1,22 @@
+// For allow the same slot number for two items set the same slot number
+// Ex: Slot earring slot 238 and second slot to 238 too
+// Max 10 new slots
+//
+// Background Images(you can use any mu image loaded, just need to know the image index):  
+//   new_slot1.ozj index 81526
+//   new_slot2.ozj index 81527
+//   new_slot3.ozj index 81528
+//   new_slot4.ozj index 81529
+//   new_slot5.ozj index 81530
+//======================================================================================================
+// Slot   PosX   PosY   Image   Width   Height   IsPet   SlotNumber   NewTab   Comment
+//======================================================================================================
+// 0      90     165    81528   38      38       0       237          0        //Earring1
+// 1      201    165    81528   38      38       0       237          0        //Earring2
+// 2      75     292    81529   30      30       1       238          0        //Pet1 
+// 3      110    293    81529   30      30       1       238          0        //Pet2
+// 4      145    293    81529   30      30       1       238          0        //Pet3
+// 5      180    293    81529   30      30       1       238          0        //Pet4
+// 6      75     292    81529   30      30       1       238          1        //Pet Item in new tab
+// 7      110    293    81529   30      30       1       238          1        //Pet Item in new tab
+end

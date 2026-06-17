@@ -1,0 +1,130 @@
+1
+//===============================================================================================================================================================
+// Monster Spot Location
+//===============================================================================================================================================================
+// Range:       [0~N]          [0~30]     [1~255]        [1~255]        [1~255]      [1~255]      [-1/0~8]       [1~1000]
+// Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Comment
+//===============================================================================================================================================================
+   608          95             30        24             20             30             25             -1             1             // Debenter Devilfairy
+   608          95             30        27             52             33             60             -1             1             // Debenter Devilfairy
+   608          95             30        28             25             34             31             -1             1             // Debenter Devilfairy
+   608          95             30        31             62             39             70             -1             1             // Debenter Devilfairy
+   608          95             30        33             14             42             22             -1             1             // Debenter Devilfairy
+   608          95             30        44             29             53             36             -1             1             // Debenter Devilfairy
+   608          95             30        47             44             55             50             -1             1             // Debenter Devilfairy
+   608          95             30        49             63             58             71             -1             1             // Debenter Devilfairy
+   608          95             30        55             8              63             13             -1             1             // Debenter Devilfairy
+   608          95             30        56             29             63             36             -1             1             // Debenter Devilfairy
+   608          95             30        58             76             65             86             -1             1             // Debenter Devilfairy
+   608          95             30        61             12             67             18             -1             1             // Debenter Devilfairy
+   608          95             30        64             37             71             44             -1             1             // Debenter Devilfairy
+   608          95             30        72             90             82             99             -1             1             // Debenter Devilfairy
+   608          95             30        78             97             86             104            -1             1             // Debenter Devilfairy
+   608          95             30        79             22             91             30             -1             1             // Debenter Devilfairy
+   608          95             30        82             56             90             63             -1             1             // Debenter Devilfairy
+   608          95             30        83             30             90             36             -1             1             // Debenter Devilfairy
+   608          95             30        90             59             98             66             -1             1             // Debenter Devilfairy
+   608          95             30        109            44             118            52             -1             1             // Debenter Devilfairy
+   608          95             30        113            15             121            21             -1             1             // Debenter Devilfairy
+   608          95             30        113            57             122            64             -1             1             // Debenter Devilfairy
+   608          95             30        117            7              124            15             -1             1             // Debenter Devilfairy
+   608          95             30        118            27             126            36             -1             1             // Debenter Devilfairy
+   608          95             30        118            85             127            93             -1             1             // Debenter Devilfairy
+   608          95             30        123            80             131            86             -1             1             // Debenter Devilfairy
+   608          95             30        128            90             133            95             -1             1             // Debenter Devilfairy
+   608          95             30        135            13             143            19             -1             1             // Debenter Devilfairy
+   608          95             30        138            91             144            98             -1             1             // Debenter Devilfairy
+   608          95             30        143            64             152            70             -1             1             // Debenter Devilfairy
+   608          95             30        145            90             152            96             -1             1             // Debenter Devilfairy
+   608          95             30        146            41             152            48             -1             1             // Debenter Devilfairy
+   608          95             30        152            46             158            54             -1             1             // Debenter Devilfairy
+   608          95             30        152            61             158            67             -1             1             // Debenter Devilfairy
+   608          95             30        155            22             164            28             -1             1             // Debenter Devilfairy
+   608          95             30        162            100            167            105            -1             1             // Debenter Devilfairy
+   608          95             30        164            61             170            68             -1             1             // Debenter Devilfairy
+   608          95             30        167            95             174            101            -1             1             // Debenter Devilfairy
+   608          95             30        174            14             182            21             -1             1             // Debenter Devilfairy
+   608          95             30        174            44             180            53             -1             1             // Debenter Devilfairy
+   608          95             30        180            40             187            48             -1             1             // Debenter Devilfairy
+   608          95             30        181            18             189            26             -1             1             // Debenter Devilfairy
+   608          95             30        184            66             192            73             -1             1             // Debenter Devilfairy
+   608          95             30        185            92             191            98             -1             1             // Debenter Devilfairy
+   608          95             30        187            73             195            80             -1             1             // Debenter Devilfairy
+   608          95             30        191            91             197            97             -1             1             // Debenter Devilfairy
+   608          95             30        197            25             203            31             -1             1             // Debenter Devilfairy
+   608          95             30        202            13             209            19             -1             1             // Debenter Devilfairy
+   608          95             30        206            35             213            42             -1             1             // Debenter Devilfairy
+   608          95             30        207            52             214            59             -1             1             // Debenter Devilfairy
+   608          95             30        210            42             215            47             -1             1             // Debenter Devilfairy
+   608          95             30        230            84             238            91             -1             1             // Debenter Devilfairy
+   608          95             30        231            44             238            50             -1             1             // Debenter Devilfairy
+   608          95             30        235            77             243            84             -1             1             // Debenter Devilfairy
+   608          95             30        239            37             245            45             -1             1             // Debenter Devilfairy
+   609          95             30        33             50             39             57             -1             1             // Deventer Elemental Beast
+   609          95             30        34             21             41             29             -1             1             // Deventer Elemental Beast
+   609          95             30        34             56             40             62             -1             1             // Deventer Elemental Beast
+   609          95             30        49             75             57             82             -1             1             // Deventer Elemental Beast
+   609          95             30        57             15             65             23             -1             1             // Deventer Elemental Beast
+   609          95             30        59             42             67             48             -1             1             // Deventer Elemental Beast
+   609          95             30        60             49             65             54             -1             1             // Deventer Elemental Beast
+   609          95             30        75             28             83             37             -1             1             // Deventer Elemental Beast
+   609          95             30        76             92             84             101            -1             1             // Deventer Elemental Beast
+   609          95             30        82             83             90             89             -1             1             // Deventer Elemental Beast
+   609          95             30        90             54             97             62             -1             1             // Deventer Elemental Beast
+   609          95             30        112            8              121            15             -1             1             // Deventer Elemental Beast
+   609          95             30        113            33             124            41             -1             1             // Deventer Elemental Beast
+   609          95             30        118            79             128            88             -1             1             // Deventer Elemental Beast
+   609          95             30        119            47             128            55             -1             1             // Deventer Elemental Beast
+   609          95             30        136            22             147            29             -1             1             // Deventer Elemental Beast
+   609          95             30        139            83             147            91             -1             1             // Deventer Elemental Beast
+   609          95             30        146            47             154            53             -1             1             // Deventer Elemental Beast
+   609          95             30        147            58             154            64             -1             1             // Deventer Elemental Beast
+   609          95             30        148            14             155            23             -1             1             // Deventer Elemental Beast
+   609          95             30        155            88             162            96             -1             1             // Deventer Elemental Beast
+   609          95             30        160            53             169            62             -1             1             // Deventer Elemental Beast
+   609          95             30        167            81             177            88             -1             1             // Deventer Elemental Beast
+   609          95             30        167            99             173            105            -1             1             // Deventer Elemental Beast
+   609          95             30        169            46             176            53             -1             1             // Deventer Elemental Beast
+   609          95             30        177            20             185            27             -1             1             // Deventer Elemental Beast
+   609          95             30        181            46             187            52             -1             1             // Deventer Elemental Beast
+   609          95             30        192            94             200            102            -1             1             // Deventer Elemental Beast
+   609          95             30        195            43             202            48             -1             1             // Deventer Elemental Beast
+   609          95             30        199            8              206            16             -1             1             // Deventer Elemental Beast
+   609          95             30        199            32             205            39             -1             1             // Deventer Elemental Beast
+   609          95             30        200            53             210            64             -1             1             // Deventer Elemental Beast
+   609          95             30        201            70             208            77             -1             1             // Deventer Elemental Beast
+   609          95             30        204            3              210            11             -1             1             // Deventer Elemental Beast
+   609          95             30        206            70             212            81             -1             1             // Deventer Elemental Beast
+   609          95             30        212            37             218            43             -1             1             // Deventer Elemental Beast
+   609          95             30        212            87             219            94             -1             1             // Deventer Elemental Beast
+   609          95             30        230            76             238            84             -1             1             // Deventer Elemental Beast
+   609          95             30        233            49             241            55             -1             1             // Deventer Elemental Beast
+   610          95             30        43             60             48             67             -1             1             // Debenter Elemental Knight
+   610          95             30        48             48             55             55             -1             1             // Debenter Elemental Knight
+   610          95             30        61             81             68             91             -1             1             // Debenter Elemental Knight
+   610          95             30        68             28             75             36             -1             1             // Debenter Elemental Knight
+   610          95             30        71             83             80             92             -1             1             // Debenter Elemental Knight
+   610          95             30        94             51             104            59             -1             1             // Debenter Elemental Knight
+   610          95             30        108            49             122            57             -1             1             // Debenter Elemental Knight
+   610          95             30        112            27             122            34             -1             1             // Debenter Elemental Knight
+   610          95             30        116            66             126            74             -1             1             // Debenter Elemental Knight
+   610          95             30        125            22             133            30             -1             1             // Debenter Elemental Knight
+   610          95             30        133            48             145            54             -1             1             // Debenter Elemental Knight
+   610          95             30        144            17             152            27             -1             1             // Debenter Elemental Knight
+   610          95             30        149            99             155            103            -1             1             // Debenter Elemental Knight
+   610          95             30        158            98             168            107            -1             1             // Debenter Elemental Knight
+   610          95             30        161            40             169            49             -1             1             // Debenter Elemental Knight
+   610          95             30        162            70             167            75             -1             1             // Debenter Elemental Knight
+   610          95             30        170            54             180            61             -1             1             // Debenter Elemental Knight
+   610          95             30        199            73             208            81             -1             1             // Debenter Elemental Knight
+   610          95             30        209            30             222            36             -1             1             // Debenter Elemental Knight
+   610          95             30        222            85             229            92             -1             1             // Debenter Elemental Knight
+   610          95             30        227            48             236            56             -1             1             // Debenter Elemental Knight
+   611          95             30        33             2              245            110            -1             1             // Sellihoden
+   612          95             30        39             3              245            112            -1             1             // Ukanva
+   613          95             30        46             3              241            113            -1             1             // Silla
+   614          95             30        51             2              249            117            -1             1             // Normus
+   615          95             30        42             5              239            115            -1             1             // Muff
+end
+
+

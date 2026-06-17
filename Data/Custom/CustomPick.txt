@@ -1,0 +1,30 @@
+//=======================================
+// Custom Pick System
+//=======================================
+// See in https://www.youtube.com/watch?v=8Lxt-ywDwnI
+//=======================================
+// - Pick items automatic when dropping
+//=======================================
+// ID     = ID
+// String = Command text
+// Cat    = Item section
+// Item   = Item index
+//=======================================
+// Obs: Max 20 Items
+//=======================================
+// ID   String       Cat   Item
+//=======================================
+   0    "soul"       14    14
+   1    "bless"      14    13
+   2    "chaos"      12    15
+   3    "zen"        14    15
+   4    "life"       14    16
+   5    "creation"   14    22
+   6    "rena"       14    21
+   7    "heart"      14    12
+   8    "gemstone"   14    41
+   9    "star"       14    51
+   10   "lucky"      14    100
+   11   "flame"      13    52
+   12   "feather"    13    14
+end

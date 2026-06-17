@@ -1,0 +1,75 @@
+/////////////////////////////////////////////////////////////////////////////
+//Shop file created by Mu Editor MoMu Service [Shop Editor]
+//coded by © MoMu   
+//Decompiled by Virtual 
+///////////////////////////
+//Shop: SET SUMONER
+0
+// -----------------------------------------------------------------------------------------------------------------------------------------
+// Section   Type   Level   Dur   Skill   Luck   Option   ExcOp   SetOp   JoH   OEx   Socket1   Socket2   Socket3   Socket4   Socket5   SocketBonus   Duration
+// -----------------------------------------------------------------------------------------------------------------------------------------
+   15        000    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Scroll of Poison
+   15        001    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Scroll of Meteorite
+   15        002    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Scroll of Lighting
+   15        003    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Scroll of Fire
+   15        004    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Scroll of Flame
+   15        005    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Scroll of Teleport
+   15        006    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Scroll of Ice
+   15        007    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Scroll of Twister
+   15        008    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Scroll of Evil Spirit
+   15        009    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Scroll of Hellfire
+   15        010    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Scroll of Power Wave
+   15        011    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Scroll of Aqua
+   15        012    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Scroll of Cometfall
+   15        013    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Scroll of Inferno
+   15        014    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Scroll of Teleport Ally
+   15        015    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Scroll of Soul Barrier
+   15        016    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Scroll of Decay
+   15        017    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Scroll of Ice Storm
+   15        018    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Scroll of Nova
+   15        028    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Scroll of Wizardry Enhance
+   15        029    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Scroll of Gigantic Storm
+   15        019    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Chain Lightning Parchment
+   15        020    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Drain Life Parchment
+   15        021    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Lightning Shock Parchment
+   15        022    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Damage Reflection Parchment
+   15        023    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Berserker Parchment
+   15        024    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Sleep Parchment
+   15        026    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Weakness Parchment
+   15        027    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Innovation Parchment
+   15        030    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Chain Drive Parchment
+   15        031    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Dark Side Parchment
+   15        032    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Dragon Roar Parchment
+   15        033    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Dragon Slasher Parchment
+   15        034    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Ignore Defense Parchment
+   15        035    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Increase Health Parchment
+   15        036    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Increase Block Parchment
+   12        021    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Scroll of FireBurst
+   12        022    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Scroll of Summon
+   12        023    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Scroll of Critical Damage
+   12        024    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Scroll of Electric Spark
+   12        035    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Scroll of Fire Scream
+   12        048    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Scroll of Chaotic Diseier
+   12        007    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Orb of Twisting Slash
+   12        012    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Orb of Rageful Blow
+   12        013    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Orb of Impale
+   12        014    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Orb of Greater Fortitude
+   12        019    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Orb of Death Stab
+   12        044    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Crystal of Destruction
+   12        008    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Healing Orb
+   12        009    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Orb of Greater Fortitude
+   12        010    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Orb of Greater Damage
+   12        011    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Orb of Summoning
+   12        011    1       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Orb of Summoning
+   12        011    2       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Orb of Summoning
+   12        011    3       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Orb of Summoning
+   12        011    4       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Orb of Summoning
+   12        011    5       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Orb of Summoning
+   12        011    6       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Orb of Summoning
+   12        017    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Orb of Penetration
+   12        018    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Orb of Ice Arrow
+   12        045    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Crystal of Multi-Shot
+   12        046    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Crystal of Recovery
+   12        016    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Orb of Fire Slash
+   12        047    0       0     0       0      0        0       0       0     0     255       255       255       255       255       255           0           //Crystal of Flame Strike
+end

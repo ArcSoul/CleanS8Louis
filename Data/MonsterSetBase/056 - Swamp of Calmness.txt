@@ -1,0 +1,314 @@
+0
+//=============================================================================================================================
+// NPC Location or Traps in City
+//=============================================================================================================================
+// Range:       [0~N]          [0~30]    [1~255]        [1~255]        [-1/0~8]
+// Monster      MapNumber      Range     PositionX      PositionY      Direction      Comment
+//=============================================================================================================================
+   605          56             5         130            111            -1             // Mining Area (Small)
+   605          56             5         135            100            -1             // Mining Area (Small)
+   605          56             5         139            113            -1             // Mining Area (Small)
+   605          56             5         143            99             -1             // Mining Area (Small)
+   605          56             5         145            109            -1             // Mining Area (Small)
+   606          56             5         134            105            -1             // Mining Area (Medium)
+   606          56             5         137            101            -1             // Mining Area (Medium)
+   606          56             5         138            109            -1             // Mining Area (Medium)
+   606          56             5         142            105            -1             // Mining Area (Medium)
+   607          56             5         141            105            -1             // Mining Area (Large)
+   607          56             5         142            109            -1             // Mining Area (Large)
+   607          56             5         145            119            -1             // Mining Area (Large)
+end
+
+
+2
+//=============================================================================================================================
+// Monster or Traps Fixed Location
+//=============================================================================================================================
+// Range:       [0~N]          [0~30]     [1~255]        [1~255]        [-1/0~8]       [1~1000]
+// Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+//=============================================================================================================================
+   441          56             5         173            215            -1             // Sapi-Unus
+   441          56             5         173            222            -1             // Sapi-Unus
+   441          56             5         198            198            -1             // Sapi-Unus
+   441          56             5         198            208            -1             // Sapi-Unus
+   441          56             5         198            214            -1             // Sapi-Unus
+   441          56             5         203            198            -1             // Sapi-Unus
+   441          56             5         207            202            -1             // Sapi-Unus
+   441          56             5         220            184            -1             // Sapi-Unus
+   441          56             5         226            184            -1             // Sapi-Unus
+   441          56             5         226            210            -1             // Sapi-Unus
+   441          56             5         229            202            -1             // Sapi-Unus
+   441          56             5         233            204            -1             // Sapi-Unus
+   441          56             5         236            201            -1             // Sapi-Unus
+   441          56             5         237            210            -1             // Sapi-Unus
+   442          56             5         189            226            -1             // Sapi-Duo
+   442          56             5         201            228            -1             // Sapi-Duo
+   442          56             5         207            234            -1             // Sapi-Duo
+   442          56             5         210            196            -1             // Sapi-Duo
+   442          56             5         216            177            -1             // Sapi-Duo
+   442          56             5         218            171            -1             // Sapi-Duo
+   442          56             5         220            192            -1             // Sapi-Duo
+   442          56             5         220            217            -1             // Sapi-Duo
+   442          56             5         224            217            -1             // Sapi-Duo
+   442          56             5         227            169            -1             // Sapi-Duo
+   442          56             5         228            194            -1             // Sapi-Duo
+   442          56             5         230            173            -1             // Sapi-Duo
+   442          56             5         231            197            -1             // Sapi-Duo
+   442          56             5         235            194            -1             // Sapi-Duo
+   443          56             5         10             44             -1             // Sapi-Tres
+   443          56             5         10             50             -1             // Sapi-Tres
+   443          56             5         13             47             -1             // Sapi-Tres
+   443          56             5         24             49             -1             // Sapi-Tres
+   443          56             5         36             44             -1             // Sapi-Tres
+   443          56             5         36             51             -1             // Sapi-Tres
+   443          56             5         39             20             -1             // Sapi-Tres
+   443          56             5         40             49             -1             // Sapi-Tres
+   443          56             5         41             26             -1             // Sapi-Tres
+   443          56             5         41             44             -1             // Sapi-Tres
+   443          56             5         42             218            -1             // Sapi-Tres
+   443          56             5         42             229            -1             // Sapi-Tres
+   443          56             5         46             203            -1             // Sapi-Tres
+   443          56             5         50             44             -1             // Sapi-Tres
+   443          56             5         50             202            -1             // Sapi-Tres
+   443          56             5         51             27             -1             // Sapi-Tres
+   443          56             5         52             11             -1             // Sapi-Tres
+   443          56             5         52             232            -1             // Sapi-Tres
+   443          56             5         58             20             -1             // Sapi-Tres
+   443          56             5         67             235            -1             // Sapi-Tres
+   443          56             5         68             15             -1             // Sapi-Tres
+   443          56             5         68             192            -1             // Sapi-Tres
+   443          56             5         68             202            -1             // Sapi-Tres
+   443          56             5         68             215            -1             // Sapi-Tres
+   443          56             5         68             224            -1             // Sapi-Tres
+   443          56             5         69             23             -1             // Sapi-Tres
+   443          56             5         86             220            -1             // Sapi-Tres
+   444          56             5         206            30             -1             // Shadow Pawn
+   444          56             5         206            39             -1             // Shadow Pawn
+   444          56             5         209            29             -1             // Shadow Pawn
+   444          56             5         217            24             -1             // Shadow Pawn
+   444          56             5         217            82             -1             // Shadow Pawn
+   444          56             5         221            88             -1             // Shadow Pawn
+   444          56             5         222            10             -1             // Shadow Pawn
+   444          56             5         224            14             -1             // Shadow Pawn
+   444          56             5         228            10             -1             // Shadow Pawn
+   444          56             5         229            27             -1             // Shadow Pawn
+   444          56             5         232            11             -1             // Shadow Pawn
+   444          56             5         232            88             -1             // Shadow Pawn
+   444          56             5         233            72             -1             // Shadow Pawn
+   444          56             5         236            56             -1             // Shadow Pawn
+   444          56             5         236            68             -1             // Shadow Pawn
+   444          56             5         236            80             -1             // Shadow Pawn
+   445          56             5         8              34             -1             // Shadow Knight
+   445          56             5         9              22             -1             // Shadow Knight
+   445          56             5         9              47             -1             // Shadow Knight
+   445          56             5         12             11             -1             // Shadow Knight
+   445          56             5         19             11             -1             // Shadow Knight
+   445          56             5         27             23             -1             // Shadow Knight
+   445          56             5         27             53             -1             // Shadow Knight
+   445          56             5         29             43             -1             // Shadow Knight
+   445          56             5         32             53             -1             // Shadow Knight
+   445          56             5         33             23             -1             // Shadow Knight
+   445          56             5         42             14             -1             // Shadow Knight
+   445          56             5         54             15             -1             // Shadow Knight
+   445          56             5         55             24             -1             // Shadow Knight
+   445          56             5         62             16             -1             // Shadow Knight
+   445          56             5         205            33             -1             // Shadow Knight
+   445          56             5         206            44             -1             // Shadow Knight
+   445          56             5         213            27             -1             // Shadow Knight
+   445          56             5         216            86             -1             // Shadow Knight
+   445          56             5         220            80             -1             // Shadow Knight
+   445          56             5         225            28             -1             // Shadow Knight
+   445          56             5         226            89             -1             // Shadow Knight
+   445          56             5         230            74             -1             // Shadow Knight
+   445          56             5         232            15             -1             // Shadow Knight
+   445          56             5         232            21             -1             // Shadow Knight
+   445          56             5         234            9              -1             // Shadow Knight
+   445          56             5         236            63             -1             // Shadow Knight
+   445          56             5         236            74             -1             // Shadow Knight
+   445          56             5         236            86             -1             // Shadow Knight
+   445          56             5         237            14             -1             // Shadow Knight
+   446          56             5         13             32             -1             // Shadow Look
+   446          56             5         16             15             -1             // Shadow Look
+   446          56             5         18             45             -1             // Shadow Look
+   446          56             5         20             30             -1             // Shadow Look
+   446          56             5         23             23             -1             // Shadow Look
+   446          56             5         24             10             -1             // Shadow Look
+   446          56             5         27             11             -1             // Shadow Look
+   446          56             5         45             27             -1             // Shadow Look
+   446          56             5         52             20             -1             // Shadow Look
+   447          56             5         177            223            -1             // Thunder Napin
+   447          56             5         180            218            -1             // Thunder Napin
+   447          56             5         190            233            -1             // Thunder Napin
+   447          56             5         195            222            -1             // Thunder Napin
+   447          56             5         199            234            -1             // Thunder Napin
+   447          56             5         214            234            -1             // Thunder Napin
+   447          56             5         224            234            -1             // Thunder Napin
+   447          56             5         231            235            -1             // Thunder Napin
+   447          56             5         236            238            -1             // Thunder Napin
+   447          56             5         238            233            -1             // Thunder Napin
+   447          56             5         239            227            -1             // Thunder Napin
+   448          56             5         26             226            -1             // Ghost Napin
+   448          56             5         29             235            -1             // Ghost Napin
+   448          56             5         33             184            -1             // Ghost Napin
+   448          56             5         34             192            -1             // Ghost Napin
+   448          56             5         34             231            -1             // Ghost Napin
+   448          56             5         41             200            -1             // Ghost Napin
+   448          56             5         48             227            -1             // Ghost Napin
+   448          56             5         57             203            -1             // Ghost Napin
+   448          56             5         57             237            -1             // Ghost Napin
+   448          56             5         68             230            -1             // Ghost Napin
+   448          56             5         82             223            -1             // Ghost Napin
+   448          56             5         83             219            -1             // Ghost Napin
+   448          56             5         206            49             -1             // Ghost Napin
+   448          56             5         210            34             -1             // Ghost Napin
+   448          56             5         220            27             -1             // Ghost Napin
+   448          56             5         221            84             -1             // Ghost Napin
+   448          56             5         231            82             -1             // Ghost Napin
+   448          56             5         232            68             -1             // Ghost Napin
+   448          56             5         233            77             -1             // Ghost Napin
+   448          56             5         236            90             -1             // Ghost Napin
+   449          56             5         10             192            -1             // Blaze Napin
+   449          56             5         12             182            -1             // Blaze Napin
+   449          56             5         14             224            -1             // Blaze Napin
+   449          56             5         19             182            -1             // Blaze Napin
+   449          56             5         20             207            -1             // Blaze Napin
+   449          56             5         20             211            -1             // Blaze Napin
+   449          56             5         20             233            -1             // Blaze Napin
+   449          56             5         23             205            -1             // Blaze Napin
+   449          56             5         23             212            -1             // Blaze Napin
+   449          56             5         25             209            -1             // Blaze Napin
+   449          56             5         28             183            -1             // Blaze Napin
+   449          56             5         28             188            -1             // Blaze Napin
+   449          56             5         30             186            -1             // Blaze Napin
+   449          56             5         30             230            -1             // Blaze Napin
+   449          56             5         46             234            -1             // Blaze Napin
+   449          56             5         85             223            -1             // Blaze Napin
+   557          56             30        12             87             -1             // Sapi Queen
+   557          56             30        14             85             -1             // Sapi Queen
+   557          56             30        21             128            -1             // Sapi Queen
+   557          56             30        23             102            -1             // Sapi Queen
+   557          56             30        23             126            -1             // Sapi Queen
+   557          56             30        26             97             -1             // Sapi Queen
+   557          56             30        37             120            -1             // Sapi Queen
+   557          56             30        40             117            -1             // Sapi Queen
+   557          56             30        52             75             -1             // Sapi Queen
+   557          56             30        53             109            -1             // Sapi Queen
+   557          56             30        99             167            -1             // Sapi Queen
+   557          56             30        102            168            -1             // Sapi Queen
+   557          56             30        106            191            -1             // Sapi Queen
+   557          56             30        108            188            -1             // Sapi Queen
+   557          56             30        108            229            -1             // Sapi Queen
+   557          56             30        108            231            -1             // Sapi Queen
+   557          56             30        110            210            -1             // Sapi Queen
+   557          56             30        111            170            -1             // Sapi Queen
+   557          56             30        121            21             -1             // Sapi Queen
+   557          56             30        123            19             -1             // Sapi Queen
+   557          56             30        123            22             -1             // Sapi Queen
+   557          56             30        129            164            -1             // Sapi Queen
+   557          56             30        132            186            -1             // Sapi Queen
+   557          56             30        133            225            -1             // Sapi Queen
+   557          56             30        134            232            -1             // Sapi Queen
+   557          56             30        145            23             -1             // Sapi Queen
+   557          56             30        148            26             -1             // Sapi Queen
+   557          56             30        151            43             -1             // Sapi Queen
+   557          56             30        158            17             -1             // Sapi Queen
+   557          56             30        162            41             -1             // Sapi Queen
+   557          56             30        163            28             -1             // Sapi Queen
+   557          56             30        164            25             -1             // Sapi Queen
+   557          56             30        167            26             -1             // Sapi Queen
+   557          56             30        175            41             -1             // Sapi Queen
+   557          56             30        191            150            -1             // Sapi Queen
+   557          56             30        195            41             -1             // Sapi Queen
+   557          56             30        197            127            -1             // Sapi Queen
+   557          56             30        200            145            -1             // Sapi Queen
+   557          56             30        201            153            -1             // Sapi Queen
+   557          56             30        205            131            -1             // Sapi Queen
+   557          56             30        212            137            -1             // Sapi Queen
+   557          56             30        215            150            -1             // Sapi Queen
+   557          56             30        218            142            -1             // Sapi Queen
+   557          56             30        222            152            -1             // Sapi Queen
+   558          56             30        11             118            -1             // Ice Napin
+   558          56             30        12             112            -1             // Ice Napin
+   558          56             30        15             89             -1             // Ice Napin
+   558          56             30        15             127            -1             // Ice Napin
+   558          56             30        18             112            -1             // Ice Napin
+   558          56             30        21             124            -1             // Ice Napin
+   558          56             30        23             112            -1             // Ice Napin
+   558          56             30        24             121            -1             // Ice Napin
+   558          56             30        26             100            -1             // Ice Napin
+   558          56             30        35             114            -1             // Ice Napin
+   558          56             30        41             123            -1             // Ice Napin
+   558          56             30        43             118            -1             // Ice Napin
+   558          56             30        53             104            -1             // Ice Napin
+   558          56             30        57             108            -1             // Ice Napin
+   558          56             30        60             78             -1             // Ice Napin
+   558          56             30        105            230            -1             // Ice Napin
+   558          56             30        107            224            -1             // Ice Napin
+   558          56             30        109            167            -1             // Ice Napin
+   558          56             30        109            219            -1             // Ice Napin
+   558          56             30        110            185            -1             // Ice Napin
+   558          56             30        110            190            -1             // Ice Napin
+   558          56             30        111            231            -1             // Ice Napin
+   558          56             30        112            166            -1             // Ice Napin
+   558          56             30        128            29             -1             // Ice Napin
+   558          56             30        132            165            -1             // Ice Napin
+   558          56             30        134            34             -1             // Ice Napin
+   558          56             30        134            189            -1             // Ice Napin
+   558          56             30        135            229            -1             // Ice Napin
+   558          56             30        153            39             -1             // Ice Napin
+   558          56             30        155            14             -1             // Ice Napin
+   558          56             30        157            36             -1             // Ice Napin
+   558          56             30        157            38             -1             // Ice Napin
+   558          56             30        165            28             -1             // Ice Napin
+   558          56             30        177            142            -1             // Ice Napin
+   558          56             30        178            123            -1             // Ice Napin
+   558          56             30        180            127            -1             // Ice Napin
+   558          56             30        180            130            -1             // Ice Napin
+   558          56             30        181            139            -1             // Ice Napin
+   558          56             30        186            113            -1             // Ice Napin
+   558          56             30        195            108            -1             // Ice Napin
+   558          56             30        210            148            -1             // Ice Napin
+   558          56             30        213            147            -1             // Ice Napin
+   558          56             30        215            133            -1             // Ice Napin
+   558          56             30        218            136            -1             // Ice Napin
+   558          56             30        223            148            -1             // Ice Napin
+   558          56             30        226            151            -1             // Ice Napin
+   559          56             30        13             93             -1             // Shadow Master
+   559          56             30        14             104            -1             // Shadow Master
+   559          56             30        26             116            -1             // Shadow Master
+   559          56             30        41             111            -1             // Shadow Master
+   559          56             30        42             82             -1             // Shadow Master
+   559          56             30        44             123            -1             // Shadow Master
+   559          56             30        45             97             -1             // Shadow Master
+   559          56             30        52             79             -1             // Shadow Master
+   559          56             30        54             113            -1             // Shadow Master
+   559          56             30        56             77             -1             // Shadow Master
+   559          56             30        57             105            -1             // Shadow Master
+   559          56             30        100            170            -1             // Shadow Master
+   559          56             30        107            213            -1             // Shadow Master
+   559          56             30        112            213            -1             // Shadow Master
+   559          56             30        129            169            -1             // Shadow Master
+   559          56             30        129            229            -1             // Shadow Master
+   559          56             30        130            183            -1             // Shadow Master
+   559          56             30        131            31             -1             // Shadow Master
+   559          56             30        132            28             -1             // Shadow Master
+   559          56             30        134            169            -1             // Shadow Master
+   559          56             30        134            210            -1             // Shadow Master
+   559          56             30        136            185            -1             // Shadow Master
+   559          56             30        136            223            -1             // Shadow Master
+   559          56             30        141            45             -1             // Shadow Master
+   559          56             30        144            44             -1             // Shadow Master
+   559          56             30        145            46             -1             // Shadow Master
+   559          56             30        151            14             -1             // Shadow Master
+   559          56             30        152            17             -1             // Shadow Master
+   559          56             30        176            129            -1             // Shadow Master
+   559          56             30        178            136            -1             // Shadow Master
+   559          56             30        181            143            -1             // Shadow Master
+   559          56             30        182            124            -1             // Shadow Master
+   559          56             30        189            144            -1             // Shadow Master
+   559          56             30        190            112            -1             // Shadow Master
+   559          56             30        198            110            -1             // Shadow Master
+   559          56             30        202            113            -1             // Shadow Master
+end
+
+

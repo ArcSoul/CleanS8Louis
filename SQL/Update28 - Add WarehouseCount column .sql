@@ -1,0 +1,4 @@
+ALTER TABLE MEMB_INFO ADD WarehouseCount tinyint NOT NULL DEFAULT (0)
+
+
+

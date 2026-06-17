@@ -1,0 +1,398 @@
+[GameServerInfo]
+;==================================================
+; Mana Shield Skill Settings
+;==================================================
+ManaShieldConstA = 10
+ManaShieldConstB = 50
+ManaShieldConstC = 100
+ManaShieldRateDW = 30
+ManaShieldRateDK = 10
+ManaShieldRateFE = 30
+ManaShieldRateMG = 30
+ManaShieldRateDL = 30
+ManaShieldRateSU = 30
+ManaShieldRateRF = 30
+ManaShieldTimeConstA = 60
+ManaShieldTimeConstB = 40
+ManaShieldMaxRate = 30
+
+;==================================================
+; Defense Skill Settings
+;==================================================
+DefenseRateDW = 50
+DefenseRateDK = 50
+DefenseRateFE = 50
+DefenseRateMG = 50
+DefenseRateDL = 50
+DefenseRateSU = 50
+DefenseRateRF = 50
+DefenseTimeConstA = 4
+
+;==================================================
+; Heal Skill Settings
+;==================================================
+HealConstA = 5
+HealConstB = 1
+
+;==================================================
+; Greater Defense Skill Settings
+;==================================================
+GreaterDefenseConstA = 2
+GreaterDefenseConstB = 64
+GreaterDefenseRateDW = 30
+GreaterDefenseRateDK = 30
+GreaterDefenseRateFE = 30
+GreaterDefenseRateMG = 30
+GreaterDefenseRateDL = 30
+GreaterDefenseRateSU = 30
+GreaterDefenseRateRF = 30
+GreaterDefenseTimeConstA = 240
+
+;==================================================
+; Greater Damage Skill Settings
+;==================================================
+GreaterDamageConstA = 3
+GreaterDamageConstB = 64
+GreaterDamageRateDW = 25
+GreaterDamageRateDK = 25
+GreaterDamageRateFE = 25
+GreaterDamageRateMG = 25
+GreaterDamageRateDL = 25
+GreaterDamageRateSU = 25
+GreaterDamageRateRF = 25
+GreaterDamageTimeConstA = 120
+
+;==================================================
+; Summon Monster Skill Settings
+;==================================================
+SummonMonster1 = 26
+SummonMonster2 = 32
+SummonMonster3 = 21
+SummonMonster4 = 20
+SummonMonster5 = 10
+SummonMonster6 = 150
+SummonMonster7 = 151
+SummonMonster8 = 353
+
+;==================================================
+; Greater Life Skill Settings AUMENTA VIDA DO BK
+;==================================================
+GreaterLifeConstA = 12
+GreaterLifeConstB = 100
+GreaterLifeConstC = 20
+GreaterLifeRateDW = 20
+GreaterLifeRateDK = 25
+GreaterLifeRateFE = 20
+GreaterLifeRateMG = 20
+GreaterLifeRateDL = 20
+GreaterLifeRateSU = 20
+GreaterLifeRateRF = 20
+GreaterLifeTimeConstA = 60
+GreaterLifeTimeConstB = 60
+GreaterLifeMaxRate = 100
+
+;==================================================
+; Fire Slash Skill Settings
+;==================================================
+FireSlashConstA = 10
+FireSlashConstB = 20
+FireSlashTimeConstA = 15
+FireSlashMaxRate = 10
+
+;==================================================
+; Greater Critical Damage Skill Settings
+;==================================================
+GreaterCriticalDamageConstA = 25
+GreaterCriticalDamageConstB = 30
+GreaterCriticalDamageTimeConstA = 60
+GreaterCriticalDamageTimeConstB = 60
+
+;==================================================
+; Stern Skill Settings
+;==================================================
+SternTimeConstA = 1
+
+;==================================================
+; Greater Mana Skill Settings
+;==================================================
+GreaterManaConstA = 50
+GreaterManaTimeConstA = 60
+
+;==================================================
+; Invisibility Skill Settings
+;==================================================
+InvisibilityTimeConstA = 60
+
+;==================================================
+; Brand Skill Settings
+;==================================================
+BrandTimeConstA = 10
+
+;==================================================
+; Infinity Arrow Skill Settings
+;==================================================
+InfinityArrowTimeConstA = 1800
+
+;==================================================
+; Magic Damage Immunity Skill Settings
+;==================================================
+MagicDamageImmunityTimeConstA = 10
+
+;==================================================
+; Physi Damage Immunity Skill Settings
+;==================================================
+PhysiDamageImmunityTimeConstA = 10
+
+;==================================================
+; Drain Life Skill Settings
+;==================================================
+DrainLifeConstA = 100
+DrainLifeConstB = 23
+
+;==================================================
+; Reflect Damage Skill Settings
+;==================================================
+ReflectDamageConstA = 30		
+ReflectDamageConstB = 42
+ReflectDamageRateDW = 20
+ReflectDamageRateDK = 20
+ReflectDamageRateFE = 20
+ReflectDamageRateMG = 20
+ReflectDamageRateDL = 20
+ReflectDamageRateSU = 100
+ReflectDamageRateRF = 20
+ReflectDamageTimeConstA = 60
+ReflectDamageTimeConstB = 65
+ReflectDamageMaxRate = 30
+
+;==================================================
+; Sword Power Skill Settings // Buff Berserker
+;==================================================
+SwordPowerConstA = 30
+SwordPowerConstB = 30
+SwordPowerTimeConstA = 30
+SwordPowerTimeConstB = 20
+SwordPowerMaxRate = 7
+
+;==================================================
+; Sleep Skill Settings
+;==================================================
+SleepConstA = 15
+SleepConstB = 37
+SleepTimeConstA = 1
+SleepTimeConstB = 250
+SleepMaxTime = 5
+
+;==================================================
+; Lesser Defense Skill Settings
+;==================================================
+LesserDefenseConstA = 32
+LesserDefenseConstB = 50
+LesserDefenseConstC = 12
+LesserDefenseConstD = 110
+LesserDefenseTimeConstA = 5
+LesserDefenseTimeConstB = 300
+LesserDefenseMaxRateMonster = 40
+LesserDefenseMaxRateDW = 40
+LesserDefenseMaxRateDK = 40
+LesserDefenseMaxRateFE = 40
+LesserDefenseMaxRateMG = 40
+LesserDefenseMaxRateDL = 40
+LesserDefenseMaxRateSU = 40
+LesserDefenseMaxRateRF = 40
+
+;==================================================
+; Lesser Damage Skill Settings
+;==================================================
+LesserDamageConstA = 32
+LesserDamageConstB = 50
+LesserDamageConstC = 3
+LesserDamageConstD = 93
+LesserDamageTimeConstA = 5
+LesserDamageTimeConstB = 300
+LesserDamageMaxRateMonster = 40
+LesserDamageMaxRateDW = 40
+LesserDamageMaxRateDK = 40
+LesserDamageMaxRateFE = 40
+LesserDamageMaxRateMG = 40
+LesserDamageMaxRateDL = 40
+LesserDamageMaxRateSU = 40
+LesserDamageMaxRateRF = 40
+
+;==================================================
+; Sahamutt Skill Settings
+;==================================================
+SahamuttConstA = 60
+
+;==================================================
+; Neil Skill Settings
+;==================================================
+NeilConstA = 60
+
+;==================================================
+; Magic Circle Skill Settings
+;==================================================
+MagicCircleConstA = 10
+MagicCircleTimeConstA = 1800
+
+;==================================================
+; Shield Recover Skill Settings
+;==================================================
+ShieldRecoverConstA = 40000
+ShieldRecoverConstB = 1
+
+;==================================================
+; Dragon Slayer Skill Settings
+;==================================================
+DragonSlayerConstA = 10
+DragonSlayerConstB = 100
+DragonSlayerConstC = 10
+DragonSlayerConstD = 30
+DragonSlayerMaxRate = 50
+
+;==================================================
+; Greater Ignore Defense Rate Skill Settings
+;==================================================
+GreaterIgnoreDefenseRateConstA = 0
+GreaterIgnoreDefenseRateConstB = 100
+GreaterIgnoreDefenseRateTimeConstA = 60
+GreaterIgnoreDefenseRateTimeConstB = 10
+GreaterIgnoreDefenseMaxRate = 0
+
+;==================================================
+; Fitness Skill Settings Aumenta HP DO RF
+;==================================================
+FitnessConstA = 16
+FitnessConstB = 10
+FitnessTimeConstA = 60
+FitnessTimeConstB = 10
+FitnessMaxValueDW = 0
+FitnessMaxValueDK = 0
+FitnessMaxValueFE = 0
+FitnessMaxValueMG = 0
+FitnessMaxValueDL = 0
+FitnessMaxValueSU = 0
+FitnessMaxValueRF = 0
+
+;==================================================
+; Greater Defense Success Rate Skill Settings
+;==================================================
+GreaterDefenseSuccessRateConstA = 2
+GreaterDefenseSuccessRateConstB = 15
+GreaterDefenseSuccessRateTimeConstA = 60
+GreaterDefenseSuccessRateTimeConstB = 60
+GreaterDefenseSuccessMaxRateDW = 0
+GreaterDefenseSuccessMaxRateDK = 0
+GreaterDefenseSuccessMaxRateFE = 0
+GreaterDefenseSuccessMaxRateMG = 0
+GreaterDefenseSuccessMaxRateDL = 0
+GreaterDefenseSuccessMaxRateSU = 0
+GreaterDefenseSuccessMaxRateRF = 0
+
+;==================================================
+; Party Heal Skill Settings
+;==================================================
+PartyHealConstA = 5
+PartyHealConstB = 1
+
+;==================================================
+; Bless Skill Settings
+;==================================================
+BlessConstA = 700
+BlessTimeConstA = 300
+
+;==================================================
+; Blind Skill Settings
+;==================================================
+BlindConstA = 20
+BlindConstB = 25	
+BlindConstC = 50
+BlindTimeConstA = 50
+
+;==================================================
+; Earth Prison Skill Settings
+;==================================================
+EarthPrisonConstA = 10
+
+;==================================================
+; Iron Defense Skill Settings
+;==================================================
+IronDefenseConstA = 800
+IronDefenseConstB = 800
+IronDefenseTimeConstA = 10
+
+;==================================================
+; Blood Howling Skill Settings
+;==================================================
+BloodHowlingConstA = 10
+BloodHowlingConstB = 200
+BloodHowlingTimeConstA = 60
+
+;==================================================
+; Death Stab Skill Hit Mutiplier
+;==================================================
+DeathStabHitMultiplier = 4
+
+;==================================================
+; Attack when use Teleport skill
+;==================================================
+DisableTeleportAttack = 0
+
+;==================================================
+; Disable Teleport Skill when Immobilized (Ex. By Ice arrow)
+;==================================================
+DisableTeleportImmobilized = 1
+
+;==================================================
+; Disable Twist Slash Multi Attack on Castle Siege
+;==================================================
+DisableTwistSlashMultiAttack = 0
+
+;==================================================
+; Earth Quake Skill Settings
+;==================================================
+EarthquakeThrowDistance = 2
+
+;==================================================
+; Ice Arrow Skill Settings
+;==================================================
+IceArrowSkillRate = 100
+IceArrowSkillTime = 7
+
+;==================================================
+; Hack Skill double Settings
+;==================================================
+CheckHackSkillDoubleEnable = 1
+
+;==================================================
+; Crystal Sword and Crystal morning star ice rate 
+;==================================================
+CrystalIceRate = 20
+
+;==================================================
+; Combo always push and show effect after kill
+;==================================================
+ComboEffectEnable = 1
+
+;==================================================
+; Skill/Effect Replace (DEBUFF)
+;==================================================
+SkillEffectReplace = 1
+
+;==================================================
+; Skill Effects (push)
+;==================================================
+LightningEffectRate  = 100
+CycloneEffectRate  = 0
+TwistEffectRate  = 0
+LungEffectRate  = 0
+FallingEffectRate  = 0
+UpperCutEffectRate  = 0
+SlashEffectRate  = 0
+
+;==================================================
+; Summon Party Skill Settings
+;==================================================
+SummonPartySkillTime = 6
+SummonPartySkillRange = 6
+SummonPartySkillUserCanMove = 1

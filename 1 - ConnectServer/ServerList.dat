@@ -1,0 +1,6 @@
+//===================================================================================
+// ServerCode   ServerName         ServerAddress      ServerPort       ServerType
+//===================================================================================
+   11           "ServerHumilde"    "XXX.XXX.XXX.XXX"  55901            "SHOW"
+   19           "ServerEvent"      "XXX.XXX.XXX.XXX"  55919            "HIDE"
+end

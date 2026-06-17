@@ -1,0 +1,1 @@
+ALTER TABLE dbo.Character ADD [InventoryVisual][varbinary](144) NOT NULL CONSTRAINT [DF_INVENTORY_VISUAL] DEFAULT (convert([varbinary](144),replicate(char(0xFF),144)))

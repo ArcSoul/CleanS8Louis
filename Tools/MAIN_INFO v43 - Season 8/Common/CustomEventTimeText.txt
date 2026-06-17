@@ -1,0 +1,81 @@
+0
+//=====================================
+// Common Events (Max 200)
+//=====================================
+// #ID   #Event Name
+//=====================================
+   0     "Blood Castle:"
+   1     "Devil Square"
+   2     "Chaos Castle"
+   3     "Illusion Temple:"
+   4     "Online lottery:"
+   5     "Custom Quiz:"
+   6     "Custom Bonus:"
+   7     "Moss Merchante:"
+   8     "Custom Drop:"
+   9     "King of Mu:"
+   10    "TvT Event:"
+   11    "GvG Event"
+   12    "Battle Royale:"
+   13    "Pvp Championship:"
+   14    "Marathon:"
+   15    "Pandora:"
+   16    "Demon Guardian:"
+end
+
+1
+//=====================================
+// Invasions (Max 200)
+//=====================================
+// #ID   #Event Name
+//=====================================
+    0    "Skeleton King"
+    1    "Red Dragon"
+    2    "Golden Dragon"
+    3    "White Wizard"
+    4    "New Year"
+    5    "Rabbits"
+    6    "Summer"
+    7    "Cursed Santa"
+    8    "Medusa"
+    9    "Demons"
+    10   "Eggs"
+end
+
+2
+//=====================================
+// Custom Arena (Max 200)
+//=====================================
+// #ID   #Event Name
+//=====================================
+    0   "Survidor"
+    1   "DMxDM"
+    2   "GMxGM"
+    3   "BMxBM"
+    4   "FMxFM"
+    5   "LExLE"
+    6   "ELFxELF"
+    7   "SUMxSUM"
+end
+
+3
+//=====================================
+// Auction event (Max 200)
+//=====================================
+// #ID   #Event Name
+//=====================================
+    0   "Auction 1"
+    1   "Auction 2"
+    2   "Auction 3"
+    3   "Auction 4"
+    4   "Auction 5"
+    5   "Auction 6"
+    6   "Auction 7"
+    7   "Auction 8"
+    8   "Auction 9"
+    9   "Auction 10"
+    10  "Auction 11"
+    11  "Auction 12"
+    12  "Auction 13"
+    13  "Auction 14"
+end

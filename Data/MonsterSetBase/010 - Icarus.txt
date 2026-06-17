@@ -1,0 +1,90 @@
+2
+//=============================================================================================================================
+// Monster or Traps Fixed Location
+//=============================================================================================================================
+// Range:       [0~N]          [0~30]     [1~255]        [1~255]        [-1/0~8]       [1~1000]
+// Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+//=============================================================================================================================
+   69           10             30        12             27             -1             // Alquamos
+   69           10             30        13             38             -1             // Alquamos
+   69           10             30        18             31             -1             // Alquamos
+   69           10             30        21             24             -1             // Alquamos
+   69           10             30        21             36             -1             // Alquamos
+   69           10             30        26             41             -1             // Alquamos
+   69           10             30        28             28             -1             // Alquamos
+   69           10             30        31             37             -1             // Alquamos
+   69           10             30        36             29             -1             // Alquamos
+   69           10             30        37             41             -1             // Alquamos
+   69           10             30        40             34             -1             // Alquamos
+   69           10             30        44             27             -1             // Alquamos
+   69           10             30        48             40             -1             // Alquamos
+   69           10             30        66             37             -1             // Alquamos
+   69           10             30        80             41             -1             // Alquamos
+   70           10             30        57             71             -1             // Queen Rainier
+   70           10             30        64             84             -1             // Queen Rainier
+   70           10             30        66             68             -1             // Queen Rainier
+   70           10             30        69             77             -1             // Queen Rainier
+   70           10             30        74             72             -1             // Queen Rainier
+   70           10             30        74             84             -1             // Queen Rainier
+   70           10             30        80             76             -1             // Queen Rainier
+   70           10             30        84             36             -1             // Queen Rainier
+   70           10             30        85             88             -1             // Queen Rainier
+   70           10             30        89             38             -1             // Queen Rainier
+   70           10             30        90             48             -1             // Queen Rainier
+   70           10             30        91             59             -1             // Queen Rainier
+   70           10             30        95             56             -1             // Queen Rainier
+   71           10             30        50             33             -1             // Mega Crust
+   71           10             30        53             27             -1             // Mega Crust
+   71           10             30        57             34             -1             // Mega Crust
+   71           10             30        58             42             -1             // Mega Crust
+   71           10             30        59             27             -1             // Mega Crust
+   71           10             30        64             30             -1             // Mega Crust
+   71           10             30        70             43             -1             // Mega Crust
+   71           10             30        71             33             -1             // Mega Crust
+   71           10             30        74             38             -1             // Mega Crust
+   71           10             30        79             33             -1             // Mega Crust
+   71           10             30        84             47             -1             // Mega Crust
+   71           10             30        88             70             -1             // Mega Crust
+   71           10             30        93             47             -1             // Mega Crust
+   72           10             30        33             119            -1             // Phantom Knight
+   72           10             30        36             226            -1             // Phantom Knight
+   72           10             30        38             216            -1             // Phantom Knight
+   72           10             30        41             113            -1             // Phantom Knight
+   72           10             30        41             157            -1             // Phantom Knight
+   72           10             30        42             122            -1             // Phantom Knight
+   72           10             30        42             135            -1             // Phantom Knight
+   72           10             30        44             148            -1             // Phantom Knight
+   72           10             30        44             221            -1             // Phantom Knight
+   72           10             30        51             126            -1             // Phantom Knight
+   72           10             30        53             138            -1             // Phantom Knight
+   72           10             30        53             150            -1             // Phantom Knight
+   73           10             30        26             74             -1             // Drakan
+   73           10             30        28             67             -1             // Drakan
+   73           10             30        35             69             -1             // Drakan
+   73           10             30        36             79             -1             // Drakan
+   73           10             30        45             72             -1             // Drakan
+   74           10             30        29             104            -1             // Alpha Crust
+   74           10             30        32             87             -1             // Alpha Crust
+   74           10             30        33             111            -1             // Alpha Crust
+   74           10             30        35             94             -1             // Alpha Crust
+   74           10             30        38             103            -1             // Alpha Crust
+   74           10             30        39             85             -1             // Alpha Crust
+   75           10             30        27             220            -1             // Great Drakan
+   75           10             30        32             231            -1             // Great Drakan
+   75           10             30        43             238            -1             // Great Drakan
+   75           10             30        44             212            -1             // Great Drakan
+   75           10             30        45             173            -1             // Great Drakan
+   75           10             30        47             189            -1             // Great Drakan
+   75           10             30        48             200            -1             // Great Drakan
+   75           10             30        48             228            -1             // Great Drakan
+   75           10             30        50             162            -1             // Great Drakan
+   75           10             30        52             168            -1             // Great Drakan
+   75           10             30        52             174            -1             // Great Drakan
+   75           10             30        55             181            -1             // Great Drakan
+   75           10             30        57             200            -1             // Great Drakan
+   75           10             30        59             163            -1             // Great Drakan
+   75           10             30        59             190            -1             // Great Drakan
+   77           10             30        34             238            1              // Phoenix of Darkness
+end
+
+

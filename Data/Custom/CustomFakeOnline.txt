@@ -1,0 +1,16 @@
+//==========================================================================================================================================================================================================================
+// See in https://www.youtube.com/watch?v=HMmNl0EgdI0
+//==========================================================================================================================================================================================================================
+// - GateNumber = Gate where the player should go if moved to another map.(example lorencia main gate)
+// - ReturnTime = Time in minutes to return to start coordenaties.
+// - PickItem   = Pick Excellent/Ancient/Jewels items.
+// - ResetAuto:
+//   0 = Disable automatic reset system      1 = Enable automatic reset system
+// - PartyMode:
+//   0 = Disabled | 1 = Accept Party | 2 = Request party | 3 = Request party to fake players only
+//==========================================================================================================================================================================================================================
+// Account        Password            CharacterName      Skill   Buff1   Buff2   Buff3   ResetAuto  GateNumber  MapPosX   MapPosY   AttackRange   MoveRange   ReturnTime   PickItem   PvpMode   PartyMode   DeathMessage
+//==========================================================================================================================================================================================================================
+   "louismk8"     "1212"              "Wiiizard"         9       16      -1      -1      1          17          178       128       5             4           1            1          1         2           1
+   "louismk3"     "1212"              "SuperLouis"       41      48      -1      -1      0          17          178       128       5             4           1            1          1         1           1
+   "louismk2"     "1212"              "LouisMK"          235     27      28      77      0          17          178       128       5             4           1            1          1         1           1

@@ -1,0 +1,138 @@
+//==========================================================================================
+// Index   ColorR   ColorG   ColorB   ModelName               Comment
+//==========================================================================================
+// 42      176      196      222      "blood_angelsword_s"    // Bloodangel Sword
+// 44      0        255      0        "blood_anglesword"      // Bloodangel Magic Sword
+// 51      0        255      0        "absolute02_sword"      // Blessed Divine Sword of Archa
+// 1046    179      0        0        "booldangel_sapter"     // Bloodangel Scepter
+// 1049    179      0        0        "absolute_septer"       // Blessed Divine Scepter of Arc
+// 2601    138      43       226      "bloodangelstaff01"     // Bloodangel Staff
+// 2603    179      0        0        "bloodangelstick01"     // Bloodangel Stick
+// 2609    179      0        0        "absolute02_staff"      // Blessed Divine Staff of Archa
+// 2610    0        255      255      "absolute_stick"        // Blessed Divine Stick of Archa
+// 3682    205      192      176      "HelmMale98_knight"     // Bloodangel Knight Helm
+// 3683    205      192      176      "HelmMale99"            // Bloodangel Wizard Helm
+// 3684    205      192      176      "HelmMale100_elf"       // Bloodangel Elf Helm
+// 3685    205      192      176      "HelmMale100_alice"     // Bloodangel Summoner Helm
+// 3687    205      192      176      "HelmMale99_dark"       // Bloodangel Lord Helm
+// 3688    205      192      176      "HelmMale98_fight"      // Bloodangel Fighter Helm
+// 3689    8        181      48       "HelmMale109"           // Dark SK Girl
+// 3690    185      13       13       "HelmMale110"           // Etchmus Blood Helm
+// 3691    18       67       54       "HelmMale122"           // KingDra Helm
+// 3692    205      192      176      "HelmMale128"           // Orens Helm
+// 3693    225      20       218      "HelmMale146"           // Terra Helm
+// 3694    34       4        33       "HelmMale178"           // Zaphiro Helm
+// 3695    120      132      242      "HelmMale179"           // Fairy Helm
+// 3696    15       114      21       "HelmMale180"           // Future Helm
+// 3697    235      213      13       "HelmMale181"           // God of Nature Helm
+// 3698    236      12       184      "HelmMale182"           // Goddess Nature Helm
+// 3699    223      55       55       "HelmMale183"           // Red Baron Helm
+// 3722    174      198      207      "HelmMale104_knight"    // Darkangel Knight Helm
+// 3723    155      196      226      "HelmMale103_magic"     // Darkangel Wizard Helm
+// 3724    221      160      221      "HelmMale102_elf"       // Darkangel Elf Helm
+// 3725    72       61       139      "HelmMale102_alice"     // Darkangel Summoner Helm
+// 3727    115      169      194      "HelmMale103_dark"      // Darkangel Lord Helm
+// 3728    178      190      181      "HelmMale104_fight"     // Darkangel Fighter Helm
+// 4194    205      192      176      "ArmorMale98"           // Bloodangel Knight Armor
+// 4195    205      192      176      "ArmorMale99"           // Bloodangel Wizard Armor
+// 4196    205      192      176      "ArmorMale100"          // Bloodangel Elf Armor
+// 4197    205      192      176      "ArmorMale100"          // Bloodangel Summoner Armor
+// 4198    205      192      176      "ArmorMale98"           // Bloodangel Magic Armor
+// 4199    205      192      176      "ArmorMale99"           // Bloodangel Lord Armor
+// 4200    205      192      176      "ArmorMale98"           // Bloodangel Fighter Armor
+// 4201    8        181      48       "ArmorMale109"          // Dark SK Armor
+// 4202    185      13       13       "ArmorMale110"          // Etchmus Blood Armor
+// 4203    18       67       54       "ArmorMale122"          // KingDra Armor
+// 4204    205      192      176      "ArmorMale128"          // Orens Armor
+// 4205    225      20       218      "ArmorMale146"          // Terra Armor
+// 4206    34       4        33       "ArmorMale178"          // Zaphiro Armor
+// 4207    120      132      242      "ArmorMale179"          // Fairy Armor
+// 4208    15       114      21       "ArmorMale180"          // Future Armor
+// 4209    235      213      13       "ArmorMale181"          // God of Nature Armor
+// 4210    236      12       184      "ArmorMale182"          // Goddess Nature Armor
+// 4211    223      55       55       "ArmorMale183"          // Red Baron Armor
+// 4234    174      198      207      "ArmorMale104"          // Darkangel Knight Armor
+// 4235    155      196      226      "ArmorMale103"          // Darkangel Wizard Armor
+// 4236    221      160      221      "ArmorMale102"          // Darkangel Elf Armor
+// 4237    72       61       139      "ArmorMale102"          // Darkangel Summoner Armor
+// 4238    205      133      063      "ArmorMale104"          // Darkangel Magic Armor
+// 4239    115      169      194      "ArmorMale103"          // Darkangel Lord Armor
+// 4240    178      190      181      "ArmorMale104"          // Darkangel Fighter Armor
+// 4706    205      192      176      "PantMale98"            // Bloodangel Knight Pants
+// 4707    205      192      176      "PantMale99"            // Bloodangel Wizard Pants
+// 4708    205      192      176      "PantMale100"           // Bloodangel Elf Pants
+// 4709    205      192      176      "PantMale100"           // Bloodangel Summoner Pants
+// 4710    205      192      176      "PantMale98"            // Bloodangel Magic Pants
+// 4711    205      192      176      "PantMale99"            // Bloodangel Lord Pants
+// 4712    205      192      176      "PantMale98"            // Bloodangel Fighter Pants
+// 4713    8        181      48       "PantMale109"           // Dark SK Pants
+// 4714    185      13       13       "PantMale110"           // Etchmus Blood Pants
+// 4715    18       67       54       "PantMale122"           // KingDra Pants
+// 4716    205      192      176      "PantMale128"           // Orens Pants
+// 4717    225      20       218      "PantMale146"           // Terra Pants
+// 4718    34       4        33       "PantMale178"           // Zaphiro Pants
+// 4719    120      132      242      "PantMale179"           // Fairy Pants
+// 4720    15       114      21       "PantMale180"           // Future Pants
+// 4721    235      213      13       "PantMale181"           // God of Nature Pants
+// 4722    236      12       184      "PantMale182"           // Goddess Nature Pants
+// 4723    223      55       55       "PantMale183"           // Red Baron Pants
+// 4746    174      198      207      "PantMale104"           // Darkangel Knight Pants
+// 4747    155      196      226      "PantMale103"           // Darkangel Wizard Pants
+// 4748    221      160      221      "PantMale102"           // Darkangel Elf Pants
+// 4749    72       61       139      "PantMale102"           // Darkangel Summoner Pants
+// 4750    205      133      063      "PantMale104"           // Darkangel Magic Pants
+// 4751    115      169      194      "PantMale103"           // Darkangel Lord Pants
+// 4752    178      190      181      "PantMale104"           // Darkangel Fighter Pants
+// 5218    205      192      176      "GloveMale98"           // Bloodangel Knight Gloves
+// 5219    205      192      176      "GloveMale99"           // Bloodangel Wizard Gloves
+// 5220    205      192      176      "GloveMale100"          // Bloodangel Elf Gloves
+// 5221    205      192      176      "GloveMale100"          // Bloodangel Summoner Gloves
+// 5222    205      192      176      "GloveMale98"           // Bloodangel Magic Gloves
+// 5223    205      192      176      "GloveMale99"           // Bloodangel Lord Gloves
+// 5225    8        181      48       "GloveMale109"          // Dark SK Gloves
+// 5226    185      13       13       "GloveMale110"          // Etchmus Blood Gloves
+// 5227    18       67       54       "GloveMale122"          // KingDra Gloves
+// 5229    225      20       218      "GloveMale146"          // Terra Gloves
+// 5230    34       4        33       "GloveMale178"          // Zaphiro Gloves
+// 5231    120      132      242      "GloveMale179"          // Fairy Gloves
+// 5232    15       114      21       "GloveMale180"          // Future Gloves
+// 5233    235      213      13       "GloveMale181"          // God of Nature Gloves
+// 5234    236      12       184      "GloveMale182"          // Goddess Nature Gloves
+// 5235    223      55       55       "GloveMale183"          // Red Baron Gloves
+// 5258    174      198      207      "GloveMale104"          // Darkangel Knight Gloves
+// 5259    155      196      226      "GloveMale103"          // Darkangel Wizard Gloves
+// 5260    221      160      221      "GloveMale102"          // Darkangel Elf Gloves
+// 5261    72       61       139      "GloveMale102"          // Darkangel Summoner Gloves
+// 5262    205      133      063      "GloveMale104"          // Darkangel Magic Gloves
+// 5263    115      169      194      "GloveMale103"          // Darkangel Lord Gloves
+// 5730    205      192      176      "BootMale98"            // Bloodangel Knight Boots
+// 5731    205      192      176      "BootMale99"            // Bloodangel Wizard Boots
+// 5732    205      192      176      "BootMale100"           // Bloodangel Elf Boots
+// 5733    205      192      176      "BootMale100"           // Bloodangel Summoner Boots
+// 5734    205      192      176      "BootMale98"            // Bloodangel Magic Boots
+// 5735    205      192      176      "BootMale99"            // Bloodangel Lord Boots
+// 5736    205      192      176      "BootMale98"            // Bloodangel Fighter Boots
+// 5737    8        181      48       "BootMale109"           // Dark SK Boots
+// 5738    185      13       13       "BootMale110"           // Etchmus Blood Boots
+// 5739    18       67       54       "BootMale122"           // KingDra Boots
+// 5740    205      192      176      "BootMale128"           // Orens Boots
+// 5741    225      20       218      "BootMale146"           // Terra Boots
+// 5742    34       4        33       "BootMale178"           // Zaphiro Boots
+// 5743    120      132      242      "BootMale179"           // Fairy Boots
+// 5744    15       114      21       "BootMale180"           // Future Boots
+// 5745    235      213      13       "BootMale181"           // God of Nature Boots
+// 5746    236      12       184      "BootMale182"           // Goddess Nature Boots
+// 5747    223      55       55       "BootMale183"           // Red Baron Boots
+// 5770    174      198      207      "BootMale104"           // Darkangel Knight Boots
+// 5771    155      196      226      "BootMale103"           // Darkangel Wizard Boots
+// 5772    221      160      221      "BootMale102"           // Darkangel Elf Boots
+// 5773    72       61       139      "BootMale102"           // Darkangel Summoner Boots
+// 5774    205      133      063      "BootMale104"           // Darkangel Magic Boots
+// 5775    115      169      194      "BootMale103"           // Darkangel Lord Boots
+// 5776    178      190      181      "BootMale104"           // Darkangel Fighter Boots
+// 8934    -1       -1       -1       "flag01"                // 
+// 8935    -1       -1       -1       "flag02"                // 
+// 7056    -1       -1       -1       "ring01"                // 
+// 7057    255      65       65       "so_neckL"              // 
+// 7058    -1       -1       -1       "so_neckR"              // 
+end

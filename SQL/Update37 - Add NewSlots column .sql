@@ -1,0 +1,1 @@
+ALTER TABLE dbo.Character ADD [NewSlots][varbinary](160) NOT NULL CONSTRAINT [DF_NEW_SLOTS] DEFAULT (convert([varbinary](160),replicate(char(0xFF),160)))

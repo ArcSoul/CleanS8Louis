@@ -1,0 +1,19 @@
+//===================================================================
+// See in https://www.youtube.com/watch?v=fK9H1ITTsqU
+// See in https://www.youtube.com/watch?v=zfzRUpicojk
+//===================================================================
+// The amount is equivalent to 1 Market Coint
+//===================================================================
+// ItemIndex   BuyItemAmount   SellItemAmount   ItemName
+//===================================================================
+   6159        0               20               //Jewel of Chaos
+   7181        5               10               //Jewel of Bless
+   7182        0               10               //Jewel of Soul
+   7184        0               10               //Jewel of Life
+   7190        0               11               //Jewel of Creation
+   7199        0               12               //Jewel of Guardian
+   7209        0               13               //Gemstone
+   7210        0               14               //Jewel of Harmony
+   7211        0               15               //Lower refining stone
+   7212        0               16               //Higher refining stone
+end

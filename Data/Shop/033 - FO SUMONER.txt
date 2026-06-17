@@ -1,0 +1,32 @@
+/////////////////////////////////////////////////////////////////////////////
+//Shop file created by Mu Editor MoMu Service [Shop Editor]
+//coded by © MoMu   
+//Decompiled by Virtual 
+///////////////////////////
+//Shop: SET SUMONER
+0
+// -----------------------------------------------------------------------------------------------------------------------------------------
+// Section   Type   Level   Dur   Skill   Luck   Option   ExcOp   SetOp   JoH   OEx   Socket1   Socket2   Socket3   Socket4   Socket5   SocketBonus   Duration
+// -----------------------------------------------------------------------------------------------------------------------------------------
+   07        041    15      0     0       1      7        63      0       125   0     255       255       255       255       255       255           0           //Excellent Ancient Helm
+   07        042    15      0     0       1      7        63      0       125   0     255       255       255       255       255       255           0           //Excellent Demonic Helm
+   07        043    15      0     0       1      7        63      0       125   128   255       255       255       255       255       255           0           //Excellent Storm Blitz Helm
+   07        044    15      0     0       1      7        63      0       0     0     213       210       212       211       222       4             0           //Excellent Eternal Wing Helm
+   08        041    15      0     0       1      7        63      0       125   0     255       255       255       255       255       255           0           //Excellent Ancient Armor
+   08        042    15      0     0       1      7        63      0       125   0     255       255       255       255       255       255           0           //Excellent Demonic Armor
+   08        043    15      0     0       1      7        63      0       125   128   255       255       255       255       255       255           0           //Excellent Storm Blitz Armor
+   08        044    15      0     0       1      7        63      0       0     0     213       210       212       211       236       4             0           //Excellent Eternal Wing Armor
+   09        041    15      0     0       1      7        63      0       125   0     255       255       255       255       255       255           0           //Excellent Ancient Pants
+   09        042    15      0     0       1      7        63      0       125   0     255       255       255       255       255       255           0           //Excellent Demonic Pants
+   09        043    15      0     0       1      7        63      0       125   128   255       255       255       255       255       255           0           //Excellent Storm Blitz Pants
+   09        044    15      0     0       1      7        63      0       0     0     213       210       212       211       236       4             0           //Excellent Eternal Wing Pants
+   10        041    15      0     0       1      7        63      0       125   0     255       255       255       255       255       255           0           //Excellent Ancient Gloves
+   10        042    15      0     0       1      7        63      0       125   0     255       255       255       255       255       255           0           //Excellent Demonic Gloves
+   10        043    15      0     0       1      7        63      0       125   128   255       255       255       255       255       255           0           //Excellent Storm Blitz Gloves
+   10        044    15      0     0       1      7        63      0       0     0     213       210       212       211       222       4             0           //Excellent Eternal Wing Gloves
+   11        041    15      0     0       1      7        63      0       125   0     255       255       255       255       255       255           0           //Excellent Ancient Boots
+   11        042    15      0     0       1      7        63      0       125   0     255       255       255       255       255       255           0           //Excellent Demonic Boots
+   11        043    15      0     0       1      7        63      0       125   128   255       255       255       255       255       255           0           //Excellent Storm Blitz Boots
+   11        044    15      0     0       1      7        63      0       0     0     213       210       212       211       222       4             0           //Excellent Eternal Wing Boots
+   12        043    15      0     0       1      7        63      0       0     128   255       255       255       255       255       255           0           //ALAS S3
+end

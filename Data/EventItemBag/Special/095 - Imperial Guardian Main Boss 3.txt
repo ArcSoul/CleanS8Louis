@@ -1,0 +1,39 @@
+0
+//==============================================================================================================================
+// See in https://www.youtube.com/watch?v=iV_bah59Ahk
+//==============================================================================================================================
+// Main Configuration
+//==============================================================================================================================
+// DropZen         : Amount of zen that will be dropped, if item drop fails.
+// ItemDropRate    : Item drop success rate, x/100.
+// SetItemDropRate : Ancient item drop rate, x/10000.
+// ItemDropType    : 0 = fixed option values.
+//                   1 = random option values.
+// Fireworks       : 0 = Fireworks effect disabled.
+//                   1 = Fireworks effect enabled.
+// DropInventory   : 0 = Drop Underground.
+//                   1 = Add item directly in the inventory.
+//==============================================================================================================================
+// EventName              DropZen   ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks   DropInventory
+//==============================================================================================================================
+   "IG Main Boss 3"       1000      100            1               0                 0              0           0
+end
+
+1
+//=========================================================================================================
+// Item Configuration
+//=========================================================================================================
+// Skill     : 0 = Skill disabled.
+//             1 = Skill enabled.
+// Luck      : 0 = Luck disabled.
+//             1 = Luck enabled.
+//=========================================================================================================
+// Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent   Comment
+//=========================================================================================================
+   12        15     0          0          0       0      0        0           // 
+   14        13     0          0          0       0      0        0           // 
+   14        14     0          0          0       0      0        0           // 
+   14        16     0          0          0       0      0        0           // 
+   14        22     0          0          0       0      0        0           // 
+end
+

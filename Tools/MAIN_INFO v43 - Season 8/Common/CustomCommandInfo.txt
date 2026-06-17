@@ -1,0 +1,50 @@
+//==========================================================================================
+// Add info commands in custom menu
+//==========================================================================================
+// Colors : 1 - Gold
+//          2 - White
+//          3 - Orange
+//          4 - Red
+//          5 - Green
+//          6 - Yellow
+//          7 - Purple
+//==========================================================================================
+// ID   Color   CommandInfo                       CommandDescription
+//==========================================================================================
+   0    2       "/move <Map>"                     "Move to a map"
+   1    2       "/post <Msg>"                     "Post a message in global chat"
+   2    2       "/s |auto| <points>"              "Add points in Strenght"
+   3    2       "/a |auto| <points>"              "Add points in Agility"
+   4    2       "/v |auto| <points>"              "Add points in Vitality"
+   5    2       "/e |auto| <points>"              "Add points in Energy"
+   6    2       "/c |auto| <points>"              "Add points in Command"
+   7    2       "/pk"                             "Clear PK"
+   8    2       "/zen <value>"                    "Add zen"
+   9    2       "/ware <num>"                     "Change warehouse"
+   10   2       "/reset |auto|"                   "Reset character"
+   11   2       "/mreset"                         "Master reset"
+   12   5       "/clearinv"                       "(VIP)Clear inventory"
+   13   5       "/marry to <player>"              "(VIP)Marry to a player"
+   14   5       "/openware"                       "(VIP)Open warehouse"
+   15   5       "/readd"                          "(VIP)ReAdd stats"
+   16   5       "/pick <type>"                    "(VIP)Auto get itens"
+   17   5       "/changename <NewName>"           "(VIP)Change character name"
+   18   2       "/help"                           "Help"
+   19   2       "/war"                            "War with a guild"
+   20   2       "/soccer"                         "Soccer with a guild"
+   21   2       "/re |auto|on|off| <password>"    "Accept guild, party, trade, add friend"
+   22   2       "/info <player>"                  "Info about a player"
+   23   2       "/top <type>"                     "Show top player"
+   24   2       "/lock <password>"                "Block item move"
+   25   2       "/unlock <password>"              "Unblock item move"
+   26   2       "/store <type>"                   "Open a type store"
+   27   2       "/offstore"                       "Open a type store offline"
+   28   2       "/attack <skill> <buff>"          "Start custom attack"
+   29   2       "/offattack"                      "Start custom attack offline"
+   31   2       "/pack <type> <quantity>"         "Command for pack jewels"
+   32   2       "/unpack <type> <quantity>"       "Command for unpack jewels"
+   33   5       "/setparty <password>"            "Create a new password party"
+   34   5       "/joinparty <password>"           "Join the password party"
+   35   1       "/takeover <Name>"                "Send this command to check the player activity"
+   36   1       "/replyto"                        "Reply to keep the activity"
+end

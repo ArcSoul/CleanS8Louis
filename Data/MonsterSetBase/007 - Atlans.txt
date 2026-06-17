@@ -1,0 +1,290 @@
+2
+//=============================================================================================================================
+// Monster or Traps Fixed Location
+//=============================================================================================================================
+// Range:       [0~N]          [0~30]     [1~255]        [1~255]        [-1/0~8]       [1~1000]
+// Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+//=============================================================================================================================
+   45           7              30        19             125            -1             // Bahamut
+   45           7              30        20             75             -1             // Bahamut
+   45           7              30        21             41             -1             // Bahamut
+   45           7              30        21             48             -1             // Bahamut
+   45           7              30        23             33             -1             // Bahamut
+   45           7              30        23             56             -1             // Bahamut
+   45           7              30        23             64             -1             // Bahamut
+   45           7              30        24             86             -1             // Bahamut
+   45           7              30        29             52             -1             // Bahamut
+   45           7              30        29             75             -1             // Bahamut
+   45           7              30        31             31             -1             // Bahamut
+   45           7              30        35             70             -1             // Bahamut
+   45           7              30        37             50             -1             // Bahamut
+   45           7              30        39             23             -1             // Bahamut
+   45           7              30        39             35             -1             // Bahamut
+   45           7              30        39             63             -1             // Bahamut
+   45           7              30        41             11             -1             // Bahamut
+   45           7              30        45             70             -1             // Bahamut
+   45           7              30        46             20             -1             // Bahamut
+   45           7              30        47             41             -1             // Bahamut
+   45           7              30        48             57             -1             // Bahamut
+   45           7              30        49             8              -1             // Bahamut
+   45           7              30        49             64             -1             // Bahamut
+   45           7              30        62             21             -1             // Bahamut
+   45           7              30        63             44             -1             // Bahamut
+   45           7              30        67             36             -1             // Bahamut
+   45           7              30        68             52             -1             // Bahamut
+   45           7              30        72             42             -1             // Bahamut
+   45           7              30        78             19             -1             // Bahamut
+   46           7              30        17             126            -1             // Vepar
+   46           7              30        21             100            -1             // Vepar
+   46           7              30        21             118            -1             // Vepar
+   46           7              30        23             72             -1             // Vepar
+   46           7              30        24             90             -1             // Vepar
+   46           7              30        25             105            -1             // Vepar
+   46           7              30        30             110            -1             // Vepar
+   46           7              30        30             122            -1             // Vepar
+   46           7              30        31             53             -1             // Vepar
+   46           7              30        38             117            -1             // Vepar
+   46           7              30        40             48             -1             // Vepar
+   46           7              30        46             21             -1             // Vepar
+   46           7              30        48             9              -1             // Vepar
+   46           7              30        50             65             -1             // Vepar
+   46           7              30        50             93             -1             // Vepar
+   46           7              30        51             70             -1             // Vepar
+   46           7              30        55             25             -1             // Vepar
+   46           7              30        55             44             -1             // Vepar
+   46           7              30        59             34             -1             // Vepar
+   46           7              30        61             11             -1             // Vepar
+   46           7              30        62             17             -1             // Vepar
+   46           7              30        65             51             -1             // Vepar
+   46           7              30        65             59             -1             // Vepar
+   46           7              30        67             27             -1             // Vepar
+   46           7              30        69             19             -1             // Vepar
+   46           7              30        69             87             -1             // Vepar
+   46           7              30        70             38             -1             // Vepar
+   46           7              30        71             52             -1             // Vepar
+   46           7              30        75             15             -1             // Vepar
+   46           7              30        75             76             -1             // Vepar
+   46           7              30        78             23             -1             // Vepar
+   46           7              30        78             44             -1             // Vepar
+   46           7              30        80             33             -1             // Vepar
+   46           7              30        83             15             -1             // Vepar
+   46           7              30        84             21             -1             // Vepar
+   46           7              30        86             37             -1             // Vepar
+   46           7              30        89             62             -1             // Vepar
+   46           7              30        104            13             -1             // Vepar
+   46           7              30        107            18             -1             // Vepar
+   46           7              30        108            40             -1             // Vepar
+   46           7              30        114            26             -1             // Vepar
+   46           7              30        115            12             -1             // Vepar
+   46           7              30        122            29             -1             // Vepar
+   46           7              30        127            17             -1             // Vepar
+   46           7              30        141            11             -1             // Vepar
+   47           7              30        33             108            -1             // Valkyrie
+   47           7              30        35             118            -1             // Valkyrie
+   47           7              30        41             109            -1             // Valkyrie
+   47           7              30        49             100            -1             // Valkyrie
+   47           7              30        54             89             -1             // Valkyrie
+   47           7              30        62             87             -1             // Valkyrie
+   47           7              30        71             82             -1             // Valkyrie
+   47           7              30        79             70             -1             // Valkyrie
+   47           7              30        85             64             -1             // Valkyrie
+   47           7              30        94             60             -1             // Valkyrie
+   47           7              30        101            50             -1             // Valkyrie
+   47           7              30        106            48             -1             // Valkyrie
+   47           7              30        109            38             -1             // Valkyrie
+   47           7              30        112            45             -1             // Valkyrie
+   47           7              30        113            27             -1             // Valkyrie
+   47           7              30        116            9              -1             // Valkyrie
+   47           7              30        117            74             -1             // Valkyrie
+   47           7              30        118            37             -1             // Valkyrie
+   47           7              30        119            20             -1             // Valkyrie
+   47           7              30        122            29             -1             // Valkyrie
+   47           7              30        124            14             -1             // Valkyrie
+   47           7              30        128            22             -1             // Valkyrie
+   47           7              30        133            14             -1             // Valkyrie
+   47           7              30        139            61             -1             // Valkyrie
+   47           7              30        142            15             -1             // Valkyrie
+   47           7              30        150            14             -1             // Valkyrie
+   47           7              30        152            22             -1             // Valkyrie
+   47           7              30        152            61             -1             // Valkyrie
+   47           7              30        161            11             -1             // Valkyrie
+   47           7              30        166            16             -1             // Valkyrie
+   47           7              30        171            18             -1             // Valkyrie
+   47           7              30        172            55             -1             // Valkyrie
+   47           7              30        182            14             -1             // Valkyrie
+   47           7              30        189            56             -1             // Valkyrie
+   47           7              30        190            24             -1             // Valkyrie
+   47           7              30        196            27             -1             // Valkyrie
+   47           7              30        200            17             -1             // Valkyrie
+   47           7              30        208            9              -1             // Valkyrie
+   47           7              30        218            47             -1             // Valkyrie
+   47           7              30        222            14             -1             // Valkyrie
+   47           7              30        226            46             -1             // Valkyrie
+   47           7              30        227            16             -1             // Valkyrie
+   47           7              30        240            11             -1             // Valkyrie
+   48           7              30        15             234            -1             // Lizard King
+   48           7              30        20             218            -1             // Lizard King
+   48           7              30        20             237            -1             // Lizard King
+   48           7              30        22             213            -1             // Lizard King
+   48           7              30        22             230            -1             // Lizard King
+   48           7              30        24             204            -1             // Lizard King
+   48           7              30        29             226            -1             // Lizard King
+   48           7              30        34             176            -1             // Lizard King
+   48           7              30        34             200            -1             // Lizard King
+   48           7              30        34             237            -1             // Lizard King
+   48           7              30        35             209            -1             // Lizard King
+   48           7              30        37             232            -1             // Lizard King
+   48           7              30        40             210            -1             // Lizard King
+   48           7              30        41             224            -1             // Lizard King
+   48           7              30        45             205            -1             // Lizard King
+   48           7              30        46             217            -1             // Lizard King
+   48           7              30        47             211            -1             // Lizard King
+   48           7              30        47             224            -1             // Lizard King
+   48           7              30        47             231            -1             // Lizard King
+   48           7              30        54             232            -1             // Lizard King
+   48           7              30        57             225            -1             // Lizard King
+   48           7              30        63             218            -1             // Lizard King
+   48           7              30        66             222            -1             // Lizard King
+   48           7              30        76             215            -1             // Lizard King
+   48           7              30        82             215            -1             // Lizard King
+   48           7              30        87             214            -1             // Lizard King
+   48           7              30        94             210            -1             // Lizard King
+   48           7              30        104            211            -1             // Lizard King
+   48           7              30        115            210            -1             // Lizard King
+   48           7              30        124            206            -1             // Lizard King
+   48           7              30        137            205            -1             // Lizard King
+   48           7              30        144            201            -1             // Lizard King
+   48           7              30        152            201            -1             // Lizard King
+   48           7              30        159            198            -1             // Lizard King
+   48           7              30        165            193            -1             // Lizard King
+   48           7              30        167            156            -1             // Lizard King
+   48           7              30        171            162            -1             // Lizard King
+   48           7              30        171            187            -1             // Lizard King
+   48           7              30        173            179            -1             // Lizard King
+   48           7              30        175            169            -1             // Lizard King
+   48           7              30        177            146            -1             // Lizard King
+   48           7              30        178            174            -1             // Lizard King
+   48           7              30        215            182            -1             // Lizard King
+   48           7              30        217            197            -1             // Lizard King
+   48           7              30        219            124            -1             // Lizard King
+   48           7              30        219            133            -1             // Lizard King
+   48           7              30        220            168            -1             // Lizard King
+   48           7              30        221            150            -1             // Lizard King
+   48           7              30        221            158            -1             // Lizard King
+   48           7              30        222            190            -1             // Lizard King
+   48           7              30        223            202            -1             // Lizard King
+   48           7              30        224            184            -1             // Lizard King
+   48           7              30        226            52             -1             // Lizard King
+   48           7              30        226            134            -1             // Lizard King
+   48           7              30        226            154            -1             // Lizard King
+   48           7              30        227            123            -1             // Lizard King
+   48           7              30        229            190            -1             // Lizard King
+   48           7              30        230            171            -1             // Lizard King
+   48           7              30        231            176            -1             // Lizard King
+   48           7              30        231            196            -1             // Lizard King
+   48           7              30        232            102            -1             // Lizard King
+   48           7              30        232            166            -1             // Lizard King
+   48           7              30        232            206            -1             // Lizard King
+   48           7              30        233            124            -1             // Lizard King
+   48           7              30        236            177            -1             // Lizard King
+   49           7              30        19             230            -1             // Hydra
+   49           7              30        24             227            -1             // Hydra
+   49           7              30        211            192            -1             // Hydra
+   49           7              30        229            203            -1             // Hydra
+   51           7              30        64             159            -1             // Great Bahamut
+   51           7              30        65             187            -1             // Great Bahamut
+   51           7              30        83             155            -1             // Great Bahamut
+   51           7              30        84             170            -1             // Great Bahamut
+   51           7              30        136            129            -1             // Great Bahamut
+   51           7              30        147            114            -1             // Great Bahamut
+   51           7              30        185            90             -1             // Great Bahamut
+   51           7              30        186            99             -1             // Great Bahamut
+   51           7              30        212            96             -1             // Great Bahamut
+   52           7              30        22             173            -1             // Silver Valkyrie
+   52           7              30        22             232            -1             // Silver Valkyrie
+   52           7              30        27             209            -1             // Silver Valkyrie
+   52           7              30        29             231            -1             // Silver Valkyrie
+   52           7              30        33             169            -1             // Silver Valkyrie
+   52           7              30        36             205            -1             // Silver Valkyrie
+   52           7              30        41             222            -1             // Silver Valkyrie
+   52           7              30        49             158            -1             // Silver Valkyrie
+   52           7              30        53             220            -1             // Silver Valkyrie
+   52           7              30        55             181            -1             // Silver Valkyrie
+   52           7              30        61             147            -1             // Silver Valkyrie
+   52           7              30        63             178            -1             // Silver Valkyrie
+   52           7              30        67             147            -1             // Silver Valkyrie
+   52           7              30        67             186            -1             // Silver Valkyrie
+   52           7              30        70             138            -1             // Silver Valkyrie
+   52           7              30        70             168            -1             // Silver Valkyrie
+   52           7              30        71             140            -1             // Silver Valkyrie
+   52           7              30        72             128            -1             // Silver Valkyrie
+   52           7              30        73             180            -1             // Silver Valkyrie
+   52           7              30        76             174            -1             // Silver Valkyrie
+   52           7              30        78             145            -1             // Silver Valkyrie
+   52           7              30        79             136            -1             // Silver Valkyrie
+   52           7              30        81             164            -1             // Silver Valkyrie
+   52           7              30        85             185            -1             // Silver Valkyrie
+   52           7              30        86             140            -1             // Silver Valkyrie
+   52           7              30        87             132            -1             // Silver Valkyrie
+   52           7              30        87             175            -1             // Silver Valkyrie
+   52           7              30        89             184            -1             // Silver Valkyrie
+   52           7              30        90             148            -1             // Silver Valkyrie
+   52           7              30        93             136            -1             // Silver Valkyrie
+   52           7              30        97             142            -1             // Silver Valkyrie
+   52           7              30        101            147            -1             // Silver Valkyrie
+   52           7              30        101            183            -1             // Silver Valkyrie
+   52           7              30        105            137            -1             // Silver Valkyrie
+   52           7              30        109            211            -1             // Silver Valkyrie
+   52           7              30        111            175            -1             // Silver Valkyrie
+   52           7              30        111            183            -1             // Silver Valkyrie
+   52           7              30        112            137            -1             // Silver Valkyrie
+   52           7              30        117            130            -1             // Silver Valkyrie
+   52           7              30        118            167            -1             // Silver Valkyrie
+   52           7              30        121            135            -1             // Silver Valkyrie
+   52           7              30        122            144            -1             // Silver Valkyrie
+   52           7              30        122            178            -1             // Silver Valkyrie
+   52           7              30        124            125            -1             // Silver Valkyrie
+   52           7              30        129            130            -1             // Silver Valkyrie
+   52           7              30        129            171            -1             // Silver Valkyrie
+   52           7              30        131            207            -1             // Silver Valkyrie
+   52           7              30        138            167            -1             // Silver Valkyrie
+   52           7              30        138            176            -1             // Silver Valkyrie
+   52           7              30        142            125            -1             // Silver Valkyrie
+   52           7              30        144            109            -1             // Silver Valkyrie
+   52           7              30        144            132            -1             // Silver Valkyrie
+   52           7              30        147            164            -1             // Silver Valkyrie
+   52           7              30        150            120            -1             // Silver Valkyrie
+   52           7              30        152            169            -1             // Silver Valkyrie
+   52           7              30        155            196            -1             // Silver Valkyrie
+   52           7              30        156            122            -1             // Silver Valkyrie
+   52           7              30        156            156            -1             // Silver Valkyrie
+   52           7              30        159            112            -1             // Silver Valkyrie
+   52           7              30        162            141            -1             // Silver Valkyrie
+   52           7              30        162            149            -1             // Silver Valkyrie
+   52           7              30        163            138            -1             // Silver Valkyrie
+   52           7              30        166            117            -1             // Silver Valkyrie
+   52           7              30        167            107            -1             // Silver Valkyrie
+   52           7              30        167            154            -1             // Silver Valkyrie
+   52           7              30        170            145            -1             // Silver Valkyrie
+   52           7              30        173            109            -1             // Silver Valkyrie
+   52           7              30        177            19             -1             // Silver Valkyrie
+   52           7              30        177            101            -1             // Silver Valkyrie
+   52           7              30        179            92             -1             // Silver Valkyrie
+   52           7              30        187            94             -1             // Silver Valkyrie
+   52           7              30        192            101            -1             // Silver Valkyrie
+   52           7              30        200            103            -1             // Silver Valkyrie
+   52           7              30        208            104            -1             // Silver Valkyrie
+   52           7              30        208            183            -1             // Silver Valkyrie
+   52           7              30        208            198            -1             // Silver Valkyrie
+   52           7              30        211            59             -1             // Silver Valkyrie
+   52           7              30        215            174            -1             // Silver Valkyrie
+   52           7              30        223            70             -1             // Silver Valkyrie
+   52           7              30        224            108            -1             // Silver Valkyrie
+   52           7              30        224            142            -1             // Silver Valkyrie
+   52           7              30        226            161            -1             // Silver Valkyrie
+   52           7              30        230            181            -1             // Silver Valkyrie
+   52           7              30        232            86             -1             // Silver Valkyrie
+   52           7              30        235            106            -1             // Silver Valkyrie
+end
+
+

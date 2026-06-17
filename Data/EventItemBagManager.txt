@@ -1,0 +1,211 @@
+//=======================================================================================================================================================================
+// Index   ItemIndex   ItemLevel   MonsterClass  TopHitCount   SpecialValue  G_Type  G_Num   Coin1   Coin2   Coin3   Comment
+//=======================================================================================================================================================================
+   0       7179        0           *             *             *             0       0       0       0       0       // Box of Luck
+   1       *           *           55            *             *             0       0       0       0       0       // Skeleton King
+   2       *           *           42            *             *             0       0       0       0       0       // Red Dragon
+   3       7179        1           *             *             *             0       0       0       0       0       // Star of Christmas
+   4       7179        3           *             *             *             0       0       0       0       0       // Heart of Love
+   5       7179        5           *             *             *             0       0       0       0       0       // Silver Medal
+   6       7179        6           *             *             *             0       0       0       0       0       // Gold Medal
+   7       7179        8           *             *             *             1       1       0       0       0       // Box of Kundun 1
+   8       7179        9           *             *             *             0       0       0       0       0       // Box of Kundun 2
+   9       7179        10          *             *             *             0       0       0       0       0       // Box of Kundun 3
+   10      7179        11          *             *             *             2       1       0       0       0       // Box of Kundun 4
+   11      7179        12          *             *             *             0       0       0       0       0       // Box of Kundun 5
+   12      *           *           *             *             0             0       0       0       0       0       // Blood Castle 1
+   13      *           *           *             *             1             0       0       0       0       0       // Blood Castle 2
+   14      *           *           *             *             2             0       0       0       0       0       // Blood Castle 3
+   15      *           *           *             *             3             0       0       0       0       0       // Blood Castle 4
+   16      *           *           *             *             4             0       0       0       0       0       // Blood Castle 5
+   17      *           *           *             *             5             0       0       0       0       0       // Blood Castle 6
+   18      *           *           *             *             6             0       0       0       0       0       // Blood Castle 7
+   19      *           *           *             *             7             0       0       0       0       0       // Blood Castle 8
+   20      *           *           *             *             8             0       0       0       0       0       // Chaos Castle 1
+   21      *           *           *             *             9             0       0       0       0       0       // Chaos Castle 2
+   22      *           *           *             *             10            0       0       0       0       0       // Chaos Castle 3
+   23      *           *           *             *             11            0       0       0       0       0       // Chaos Castle 4
+   24      *           *           *             *             12            0       0       0       0       0       // Chaos Castle 5
+   25      *           *           *             *             13            0       0       0       0       0       // Chaos Castle 6
+   26      *           *           *             *             14            0       0       0       0       0       // Chaos Castle 7
+   27      *           *           135           *             *             0       0       0       0       0       // White Wizard
+   28      *           *           *             *             15            0       0       0       0       0       // Starter Ring 40
+   29      *           *           *             *             16            0       0       0       0       0       // Starter Ring 80
+   30      7179        7           *             *             *             0       0       0       0       0       // Box of Heaven
+   31      7179        13          *             *             *             0       0       0       0       0       // Blue Heart
+   32      *           *           275           *             *             0       0       0       0       0       // Kundun
+   33      *           *           295           *             *             0       0       0       0       0       // Erohim
+   34      *           *           *             *             17            0       0       0       0       0       // Senior Mix
+   35      6176        *           *             *             *             0       0       0       0       0       // Red Ribbon Box
+   36      6177        *           *             *             *             0       0       0       0       0       // Green Ribbon Box
+   37      6178        *           *             *             *             0       0       0       0       0       // Blue Ribbon Box
+   38      7200        0           *             *             *             0       0       0       0       0       // Pink Chocolate Box
+   39      7201        0           *             *             *             0       0       0       0       0       // Red Chocolate Box
+   40      7202        0           *             *             *             0       0       0       0       0       // Blue Chocolate Box
+   41      7200        1           *             *             *             0       0       0       0       0       // Purple Candy Box
+   42      7201        1           *             *             *             0       0       0       0       0       // Red Candy Box
+   43      7202        1           *             *             *             0       0       0       0       0       // Blue Candy Box
+   44      *           *           340           *             *             0       0       0       0       0       // Dark Elf
+   45      *           *           349           *             *             0       0       0       0       0       // Balgass
+   46      *           *           362           *             *             0       0       0       0       0       // Maya Hand Left
+   47      *           *           363           *             *             0       0       0       0       0       // Maya Hand Right
+   48      *           *           361           *             *             0       0       0       0       0       // Nightmare
+   49      7213        *           *             *             *             0       0       0       0       0       // Halloween Pumpkin
+   50      *           *           365           *             *             0       0       0       0       0       // Fortune Pouch
+   51      7220        *           *             *             *             0       0       0       0       0       // Game Master Box
+   52      7223        *           *             *             *             0       0       0       0       0       // Green Mistery Box
+   53      7224        *           *             *             *             0       0       0       0       0       // Pink Mistery Box
+   54      7225        *           *             *             *             0       0       0       0       0       // Purple Mistery Box
+   55      *           *           *             *             18            0       0       0       0       0       // Leo the Helper
+   56      *           *           *             *             19            0       0       0       0       0       // Illusion Temple 1
+   57      *           *           *             *             20            0       0       0       0       0       // Illusion Temple 2
+   58      *           *           *             *             21            0       0       0       0       0       // Illusion Temple 3
+   59      *           *           *             *             22            0       0       0       0       0       // Illusion Temple 4
+   60      *           *           *             *             23            0       0       0       0       0       // Illusion Temple 5
+   61      *           *           *             *             24            0       0       0       0       0       // Illusion Temple 6
+   62      *           *           413           *             *             0       0       0       0       0       // Lunar Rabbit
+   63      7252        *           *             *             *             0       0       0       0       0       // Cherry Blossom Box
+   64      *           *           *             *             25            0       0       0       0       0       // Cherry Blossom Mix 1
+   65      *           *           *             *             26            0       0       0       0       0       // Cherry Blossom Mix 2
+   66      *           *           *             *             27            0       0       0       0       0       // Cherry Blossom Mix 3
+   67      *           *           459           *             *             0       0       0       0       0       // Selupan
+   68      *           *           463           *             *             0       0       0       0       0       // Fire Flame Ghost
+   69      *           *           *             *             28            0       0       0       0       0       // Santa Claus
+   70      *           *           *             *             29            0       0       0       0       0       // Lucky Coin 1
+   71      *           *           *             *             30            0       0       0       0       0       // Lucky Coin 2
+   72      *           *           *             *             31            0       0       0       0       0       // Lucky Coin 3
+   73      *           *           *             *             32            0       0       0       0       0       // Chaos Card Mix 1 
+   74      *           *           *             *             33            0       0       0       0       0       // Chaos Card Mix 2
+   75      *           *           *             *             34            0       0       0       0       0       // Chaos Card Mix 3
+   76      *           *           *             *             35            0       0       0       0       0       // Chaos Card Mix 4
+   77      *           *           *             *             36            0       0       0       0       0       // Chaos Card Mix 5
+   78      *           *           *             *             37            0       0       0       0       0       // Double Goer Silver Chest 1
+   79      *           *           *             *             38            0       0       0       0       0       // Double Goer Silver Chest 2
+   80      *           *           *             *             39            0       0       0       0       0       // Double Goer Silver Chest 3
+   81      *           *           *             *             40            0       0       0       0       0       // Double Goer Silver Chest 4
+   82      *           *           *             *             41            0       0       0       0       0       // Double Goer Silver Chest 5
+   83      *           *           *             *             42            0       0       0       0       0       // Double Goer Golden Chest 1
+   84      *           *           *             *             43            0       0       0       0       0       // Double Goer Golden Chest 2
+   85      *           *           *             *             44            0       0       0       0       0       // Double Goer Golden Chest 3
+   86      *           *           *             *             45            0       0       0       0       0       // Double Goer Golden Chest 4
+   87      *           *           *             *             46            0       0       0       0       0       // Double Goer Golden Chest 5
+   88      *           *           *             *             47            0       0       0       0       0       // Imperial Guardian Side Boss 1
+   89      *           *           *             *             48            0       0       0       0       0       // Imperial Guardian Side Boss 2
+   90      *           *           *             *             49            0       0       0       0       0       // Imperial Guardian Side Boss 3
+   91      *           *           *             *             50            0       0       0       0       0       // Imperial Guardian Side Boss 4
+   92      *           *           *             *             51            0       0       0       0       0       // Imperial Guardian Side Boss 5
+   93      *           *           *             *             52            0       0       0       0       0       // Imperial Guardian Main Boss 1
+   94      *           *           *             *             53            0       0       0       0       0       // Imperial Guardian Main Boss 2
+   95      *           *           *             *             54            0       0       0       0       0       // Imperial Guardian Main Boss 3
+   96      *           *           *             *             55            0       0       0       0       0       // Imperial Guardian Main Boss 4
+   97      *           *           *             *             56            0       0       0       0       0       // Imperial Guardian Main Boss 5
+   98      7179        14          *             *             *             0       0       0       0       0       // Blue Luck Pouch
+   99      7179        15          *             *             *             0       0       0       0       0       // Red Luck Pouch
+   100     7291        *           *             *             *             0       0       0       0       0       // Golden Box
+   101     7292        *           *             *             *             0       0       0       0       0       // Silver Box
+   102     7309        *           *             *             *             0       0       0       0       0       // Shining Jewelry Case
+   103     7310        *           *             *             *             0       0       0       0       0       // Elegant Jewelry Case
+   104     7311        *           *             *             *             0       0       0       0       0       // Steel Jewelry Case
+   105     7312        *           *             *             *             0       0       0       0       0       // Old Jewelry Case
+   106     *           *           561           *             *             0       0       0       0       0       // Medusa
+   107     *           *           *             *             57            0       0       0       0       0       // Crywolf
+   108     *           *           43            *             *             0       0       0       0       0       // Golden Budge Dragon
+   109     *           *           78            *             *             0       0       0       0       0       // Golden Goblin
+   110     *           *           54            *             *             0       0       0       0       0       // Golden Soldier
+   111     *           *           53            *             *             0       0       0       0       0       // Golden Titan
+   112     *           *           79            *             *             0       0       0       0       0       // Golden Dragon
+   113     *           *           80            *             *             0       0       0       0       0       // Golden Lizard King
+   114     *           *           81            *             *             0       0       0       0       0       // Golden Vepar
+   115     *           *           82            *             *             0       0       0       0       0       // Golden Tantalos
+   116     *           *           83            *             *             0       0       0       0       0       // Golden Iron Wheel
+   117     *           *           502           *             *             0       0       0       0       0       // Golden Rabbit
+   118     *           *           493           *             *             0       0       0       0       0       // Golden Dark Knight
+   119     *           *           494           *             *             0       0       0       0       0       // Golden Devil
+   120     *           *           495           *             *             0       0       0       0       0       // Golden Stone Golem
+   121     *           *           496           *             *             0       0       0       0       0       // Golden Crust
+   122     *           *           497           *             *             0       0       0       0       0       // Golden Satyros
+   123     *           *           498           *             *             0       0       0       0       0       // Golden Twin Tail
+   124     *           *           499           *             *             0       0       0       0       0       // Golden Iron Knight
+   125     *           *           500           *             *             0       0       0       0       0       // Golden Napin
+   126     *           *           501           *             *             0       0       0       0       0       // Golden Great Dragon
+   127     6866        *           *             *             *             0       0       0       0       0       // WereRabbit Egg
+   128     6876        *           *             *             *             0       0       0       0       0       // Lucky Bag Egg
+   129     6877        *           *             *             *             0       0       0       0       0       // Fire Flame Ghost Egg
+   130     6878        *           *             *             *             0       0       0       0       0       // Golden Goblin Egg
+   131     7404        *           *             *             *             0       0       0       0       0       // Reward Pot 1
+   132     7405        *           *             *             *             0       0       0       0       0       // Reward Pot 2
+   133     7406        *           *             *             *             0       0       0       0       0       // Reward Pot 3
+   134     7407        *           *             *             *             0       0       0       0       0       // Reward Pot 4
+   135     7408        *           *             *             *             0       0       0       0       0       // Reward Pot 5
+   136     7409        *           *             *             *             0       0       0       0       0       // Rare Reward Pot
+   137     *           *           652           *             *             0       0       0       0       0       // Golden Goblin
+   138     *           *           653           *             *             0       0       0       0       0       // Golden Titan
+   139     *           *           654           *             *             0       0       0       0       0       // Golden Tantalose
+   140     *           *           655           *             *             0       0       0       0       0       // Golden Erohim
+   141     *           *           656           *             *             0       0       0       0       0       // Golden Hell Maine
+   142     *           *           657           *             *             0       0       0       0       0       // Golden Kundun
+   143     *           *           647           *             *             0       0       0       0       0       // Green Snake
+   144     *           *           648           *             *             0       0       0       0       0       // Yellow Snake
+   145     *           *           649           *             *             0       0       0       0       0       // Purple Snake
+   146     *           *           650           *             *             0       0       0       0       0       // Red Snake
+   147     *           *           674           *             *             0       0       0       0       0       // Moon Rabbit
+   148     *           *           675           *             *             0       0       0       0       0       // Pouch of Blessing
+   149     *           *           676           *             *             0       0       0       0       0       // Fire Flame Ghost
+   150     *           *           677           *             *             0       0       0       0       0       // Golden Goblin
+   151     *           *           *             *             58            0       0       0       0       0       // Mu Rummy 1
+   152     *           *           *             *             59            0       0       0       0       0       // Mu Rummy 2
+   153     *           *           *             *             60            0       0       0       0       0       // Online Lottery 
+   154     *           *           *             *             61            0       0       0       0       0       // Custom Gift
+   155     *           *           *             *             62            0       0       0       0       0       // Battle Royale Drop
+   156     *           *           *             *             63            0       0       0       0       0       // Team Vs Team 
+   157     *           *           *             *             64            0       0       0       0       0       // Guild Vs Guild 
+   158     *           *           *             *             65            0       0       0       0       0       // Hide and Seek 
+   159     *           *           *             *             66            0       0       0       0       0       // Run and Catch
+   160     *           *           *             *             67            0       0       0       0       0       // Russian Roulette
+   161     *           *           *             *             68            0       0       0       0       0       // Player vs Player
+   162     *           *           *             *             69            0       0       0       0       0       // Kill All Rank 1
+   163     *           *           *             *             70            0       0       0       0       0       // Kill All Rank 2
+   164     *           *           *             *             71            0       0       0       0       0       // Kill All Rank 3
+   165     *           *           *             *             72            0       0       0       0       0       // King of Mu Guild players
+   166     *           *           *             *             73            0       0       0       0       0       // King of Mu Top player 1
+   167     *           *           *             *             74            0       0       0       0       0       // King of Mu Top player 2
+   168     *           *           *             *             75            0       0       0       0       0       // King of Mu Top player 3
+   169     *           *           *             *             76            0       0       0       0       0       // King of Mu Top player 4
+   170     *           *           *             *             77            0       0       0       0       0       // King of Mu Top player 5
+   171     *           *           *             *             78            0       0       0       0       0       // Devil Square 1
+   172     *           *           *             *             79            0       0       0       0       0       // Devil Square 2
+   173     *           *           *             *             80            0       0       0       0       0       // Devil Square 3
+   174     *           *           *             *             81            0       0       0       0       0       // Devil Square 4
+   175     *           *           *             *             82            0       0       0       0       0       // Devil Square 5
+   176     *           *           *             *             83            0       0       0       0       0       // Devil Square 6
+   177     *           *           *             *             84            0       0       0       0       0       // Devil Square 7
+   178     *           *           *              *            85            0       0       0       0       0       // Quickly Event
+   179     *           *           *              *            86            2       6       0       0       0       // Reset Reward
+   180     *           *           *              *            87            2       7       0       0       0       // Master Reset Reward
+   181     *           *           *              *            88            2       8       0       0       0       // Online Reward 1
+   182     *           *           *              *            89            2       8       0       0       0       // Online Reward 2
+   183     *           *           *              *            90            2       8       0       0       0       // Online Reward 3
+   184     *           *           *              *            91            2       9       0       0       0       // Marathon Event 1
+   185     *           *           *              *            92            2       9       0       0       0       // Marathon Event 2
+   186     *           *           *              *            93            2       9       0       0       0       // Marathon Event 3
+   187     *           *           *              *            94            2       9       0       0       0       // PvpChampionship Final
+   188     *           *           *              *            95            2       9       0       0       0       // PvpChampionship Round
+   189     *           *           *              *            96            0       0       0       0       0       // Arca Battle Trophy 1
+   190     *           *           *              *            97            0       0       0       0       0       // Arca Battle Trophy 2
+   191     *           *           *              *            98            0       0       0       0       0       // Arca Battle Trophy 3
+   192     *           *           *              *            99            0       0       0       0       0       // Arca Battle Trophy 4
+   193     *           *           *              *            100           0       0       0       0       0       // Arca Battle Trophy 5
+   194     *           *           *              *            101           0       0       0       0       0       // Arca Battle Trophy 6
+   195     *           *           *              *            102           0       0       0       0       0       // Arca Battle Trophy 7
+   196     *           *           *              *            103           0       0       0       0       0       // Arca Battle Trophy 8
+   197     *           *           *              *            104           0       0       0       0       0       // Arca Battle Trophy 9
+   198     *           *           *              *            105           0       0       0       0       0       // Arca Battle Trophy 10
+   199     *           *           *              *            106           2       9       0       0       0       // Arca Battle Winner Reward
+   200     *           *           *              *            107           2       9       0       0       0       // Protector of Acheron Reward
+   201     *           *           *              *            108           0       0       0       0       0       // Pandora event
+   202     *           *           *              *            109           0       0       0       0       0       // Rank #1 Castle siege Switch Time
+   203     *           *           *              *            110           0       0       0       0       0       // Rank #1 Castle siege Crown Time
+   204     *           *           *              *            111           0       0       0       0       0       // Rank #1 Castle siege Kills
+   205     *           *           *              *            112           0       0       0       0       0       // Rank #1 Castle siege Points
+   206     *           *           *              *            113           0       0       0       0       0       //Demon Guardian event
+end

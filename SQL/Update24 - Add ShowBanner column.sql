@@ -1,0 +1,4 @@
+ALTER TABLE MEMB_INFO ADD ShowBanner smallint NOT NULL DEFAULT (0)
+
+
+

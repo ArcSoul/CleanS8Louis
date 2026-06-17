@@ -1,0 +1,28 @@
+512 * categora + index do item
+
+// FULLY COMPATIBLE WITH VERSION 124
+// VERSION 084 SUPPORTED WITHOUT NEW ITEMS
+
+// ID: Unique ID (index) in file
+// Item Group: Item Category - refer to ItemList.xml
+// Item Index: Item Index - refer to ItemList.xml
+// Item Level: Level of the item (0-15)
+// Durability: 0-255 (NOTE: some Items max durability is lower than maximum possible - 255)
+// Skill: 0/1
+// Luck: 0/1
+// Option: 0-7 (Opt * 4, example, Opt -> 7 * 4 = Item Option +28
+// Exc: 0	= No Exc options, or sum of below values (63 - Full of Excellent):
+//		1	= Mana recovery after Monster hunt +Mana/8
+//		2	= Health recovery after Monster hunt +HP/8
+//		4	= +7 Speed
+//		8	= More Damage +2%
+//		16	= More Damage +Level/20
+//		32	= Excellent Damage Rate +10%
+// Ancient (item must be added to set items (ancients), otherwise option will be ignored:
+//		0	= No Ancient
+//		5	= First Set type (+5 Stamina)
+//		6	= Second Set type (+5 Stamina)
+//		9	= First Set type (+10 Stamina)
+//		10	= Second Set type (+10 Stamina)
+// Socket: - Sockets count for socket items 0-5 or Pentagram Slots for items 12,200 and 12,201
+// Element - Element type for Elemental Items, -1: Random, 0: None, 1: Fire, 2: Water, 3: Earth, 4: Wind, 5: Darkness, NOTE: Errtels are not supported

@@ -1,0 +1,56 @@
+0
+//=============================================================================================================================
+// NPC Location or Traps in City
+//=============================================================================================================================
+// Range:       [0~N]          [0~30]    [1~255]        [1~255]        [-1/0~8]
+// Monster      MapNumber      Range     PositionX      PositionY      Direction      Comment
+//=============================================================================================================================
+   381          47             0         195            116            2              // MU Allies General
+   382          47             0         140            61             2              // Illusion Sorcerer Elder
+   383          47             0         139            59             2              // Alliance Sacred Item Storage
+   384          47             0         192            116            2              // Illusion Castle Sacred Item Sto
+end
+
+
+4
+//=============================================================================================================================
+// Monster Events
+//=============================================================================================================================
+// Range:       [0~N]          [0~30]     [1~255]        [1~255]        [-1/0~8]       [1~1000]
+// Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+//=============================================================================================================================
+   392          47             10        131            93             -1             // Illusion Sorcerer Spirit
+   392          47             10        145            109            -1             // Illusion Sorcerer Spirit
+   392          47             10        150            78             -1             // Illusion Sorcerer Spirit
+   392          47             10        158            85             -1             // Illusion Sorcerer Spirit
+   392          47             10        167            87             -1             // Illusion Sorcerer Spirit
+   392          47             10        168            123            -1             // Illusion Sorcerer Spirit
+   392          47             10        169            48             -1             // Illusion Sorcerer Spirit
+   392          47             10        179            85             -1             // Illusion Sorcerer Spirit
+   392          47             10        181            103            -1             // Illusion Sorcerer Spirit
+   392          47             10        197            57             -1             // Illusion Sorcerer Spirit
+   392          47             10        206            85             -1             // Illusion Sorcerer Spirit
+   393          47             10        131            89             -1             // Illusion Sorcerer Spirit
+   393          47             10        141            113            -1             // Illusion Sorcerer Spirit
+   393          47             10        150            73             -1             // Illusion Sorcerer Spirit
+   393          47             10        157            66             -1             // Illusion Sorcerer Spirit
+   393          47             10        164            123            -1             // Illusion Sorcerer Spirit
+   393          47             10        168            94             -1             // Illusion Sorcerer Spirit
+   393          47             10        169            52             -1             // Illusion Sorcerer Spirit
+   393          47             10        171            83             -1             // Illusion Sorcerer Spirit
+   393          47             10        187            98             -1             // Illusion Sorcerer Spirit
+   393          47             10        189            65             -1             // Illusion Sorcerer Spirit
+   393          47             10        206            81             -1             // Illusion Sorcerer Spirit
+   394          47             10        131            85             -1             // Illusion Sorcerer Spirit
+   394          47             10        149            105            -1             // Illusion Sorcerer Spirit
+   394          47             10        160            123            -1             // Illusion Sorcerer Spirit
+   394          47             10        162            66             -1             // Illusion Sorcerer Spirit
+   394          47             10        169            56             -1             // Illusion Sorcerer Spirit
+   394          47             10        169            75             -1             // Illusion Sorcerer Spirit
+   394          47             10        176            103            -1             // Illusion Sorcerer Spirit
+   394          47             10        187            92             -1             // Illusion Sorcerer Spirit
+   394          47             10        193            61             -1             // Illusion Sorcerer Spirit
+   394          47             10        206            77             -1             // Illusion Sorcerer Spirit
+end
+
+

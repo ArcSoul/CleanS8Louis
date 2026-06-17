@@ -1,0 +1,19 @@
+0
+//=====================================================================================
+// Ranking System (F8 in-game)
+//=====================================================================================
+// See in https://www.youtube.com/watch?v=_745Mskx76k
+// See in https://www.youtube.com/watch?v=WF_KHVBpXGQ
+//=====================================================================================
+// Name    = Ranking name (ex: General Ranking)
+// Column1 = Column name 1
+// Column2 = Column name 2
+//=====================================================================================
+// RankIndex   Name                Column1                   Column2
+//=====================================================================================
+   0           "Geral"             "Personagem:"             "Master Resets:"
+   1           "Reset"             "Personagem:"             "Resets:"
+   2           "Level"             "Personagem:"             "Level:"
+   3           "Blood Castle"      "Personagem:"             "Pontos:"
+   4           "Devil Square"      "Personagem:"             "Pontos:"
+end

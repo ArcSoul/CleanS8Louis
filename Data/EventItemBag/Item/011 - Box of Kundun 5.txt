@@ -1,0 +1,89 @@
+0
+//==============================================================================================================================
+// See in https://www.youtube.com/watch?v=iV_bah59Ahk
+//==============================================================================================================================
+// Main Configuration
+//==============================================================================================================================
+// DropZen         : Amount of zen that will be dropped, if item drop fails.
+// ItemDropRate    : Item drop success rate, x/100.
+// SetItemDropRate : Ancient item drop rate, x/10000.
+// ItemDropType    : 0 = fixed option values.
+//                   1 = random option values.
+// Fireworks       : 0 = Fireworks effect disabled.
+//                   1 = Fireworks effect enabled.
+// DropInventory   : 0 = Drop Underground.
+//                   1 = Add item directly in the inventory.
+//==============================================================================================================================
+// EventName              DropZen   ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks   DropInventory
+//==============================================================================================================================
+   "Box of Kundun 5"      10000     100            2               0                 0              1           0
+end
+
+1
+//=========================================================================================================
+// Item Configuration
+//=========================================================================================================
+// Skill     : 0 = Skill disabled.
+//             1 = Skill enabled.
+// Luck      : 0 = Luck disabled.
+//             1 = Luck enabled.
+//=========================================================================================================
+// Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent   Comment
+//=========================================================================================================
+   14        44     0          0          0       0      0        0           //  high refining
+   14        28     7          7          0       0      0        0           //  lost map
+   14        86     0          0          0       0      0        0           //  Cherry Blossom buff
+   14        85     0          0          0       0      0        0           //  Cherry Blossom buff
+   14        87     0          0          0       0      0        0           //  Cherry Blossom buff
+   14        41     0          0          0       0      0        0           //  gemstone
+   14        31     0          0          0       0      0        0           //  Jewel of guardian
+   12        30     0          0          0       0      0        0           //  pack bless
+   12        31     0          0          0       0      0        0           //  pack soul
+   12        15     0          0          0       0      0        0           //  chaos
+   14        16     0          0          0       0      0        0           //  life
+   12        263    0          0          1       1      4        0           //  wing
+   12        264    0          0          1       1      4        0           //  wing
+   12        265    0          0          1       1      4        0           //  wing
+   12        266    0          0          1       1      4        0           //  wing
+   12        267    0          0          1       1      4        0           //  wing
+   12        262    0          0          1       1      4        0           //  wing
+   12        105    2          2          0       0      0        0           //  seed earth
+   12        111    2          2          0       0      0        0           //  seed earth
+   12        117    2          2          0       0      0        0           //  seed earth
+   12        123    2          2          0       0      0        0           //  seed earth
+   12        129    2          2          0       0      0        0           //  seed earth
+   12        100    0          5          0       0      0        0           //  seed fire
+   12        101    0          4          0       0      0        0           //  seed water
+   12        102    0          4          0       0      0        0           //  seed Ice
+   12        103    0          5          0       0      0        0           //  seed wind
+   12        104    0          3          0       0      0        0           //  seed lighting
+   12        106    0          5          0       0      0        0           //  seed fire
+   12        107    0          4          0       0      0        0           //  seed water
+   12        108    0          4          0       0      0        0           //  seed Ice
+   12        109    0          5          0       0      0        0           //  seed wind
+   12        110    0          3          0       0      0        0           //  seed lighting
+   12        112    0          5          0       0      0        0           //  seed fire
+   12        113    0          4          0       0      0        0           //  seed water
+   12        114    0          4          0       0      0        0           //  seed Ice
+   12        115    0          5          0       0      0        0           //  seed wind
+   12        116    0          3          0       0      0        0           //  seed lighting
+   12        118    0          5          0       0      0        0           //  seed fire
+   12        119    0          4          0       0      0        0           //  seed water
+   12        120    0          4          0       0      0        0           //  seed Ice
+   12        121    0          5          0       0      0        0           //  seed wind
+   12        122    0          3          0       0      0        0           //  seed lighting
+   12        124    0          5          0       0      0        0           //  seed fire
+   12        125    0          4          0       0      0        0           //  seed water
+   12        126    0          4          0       0      0        0           //  seed Ice
+   12        127    0          5          0       0      0        0           //  seed wind
+   12        128    0          3          0       0      0        0           //  seed lighting
+   14        244    0          0          0       0      0        0           //  life
+   14        245    0          0          0       0      0        0           //  life
+   14        246    0          0          0       0      0        0           //  life
+   14        247    0          0          0       0      0        0           //  life
+   14        248    0          0          0       0      0        0           //  life
+   14        249    0          0          0       0      0        0           //  life
+   14        250    0          0          0       0      0        0           //  life
+   14        251    0          0          0       0      0        0           //  life
+end
+

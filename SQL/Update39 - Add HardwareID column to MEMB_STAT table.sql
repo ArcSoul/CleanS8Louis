@@ -1,0 +1,4 @@
+ALTER TABLE MEMB_STAT ADD HardwareID varchar(36) NULL 
+
+
+

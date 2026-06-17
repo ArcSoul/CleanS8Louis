@@ -1,0 +1,4 @@
+ALTER TABLE GREMORYCASE ADD ItemSocketBonus smallint NOT NULL DEFAULT (255)
+
+
+

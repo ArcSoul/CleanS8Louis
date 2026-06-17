@@ -1,0 +1,23 @@
+//======================================================
+// See in https://www.youtube.com/watch?v=ajV73LQI54E
+//======================================================
+//[Max 50]
+// Maps   MapName
+//======================================================
+   0      //Lorencia
+   1      //Dungeon
+   2      //Devias
+   3      //Noria
+   4      //Lost Tower
+   6      //Arena
+   7      //Atlans
+   8      //Tarkan
+   10     //Icarius
+   33     //Aida
+   37     //Kanturu 1
+   38     //Kanturu 2
+   51     //Elbeland
+   56     //Swamp of Calmness
+   57     //Raklion 1
+   82     //Arkania
+end

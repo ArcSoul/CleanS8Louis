@@ -1,0 +1,59 @@
+0
+//=============================================================================================================================
+// NPC Location or Traps in City
+//=============================================================================================================================
+// Range:       [0~N]          [0~30]    [1~255]        [1~255]        [-1/0~8]
+// Monster      MapNumber      Range     PositionX      PositionY      Direction      Comment
+//=============================================================================================================================
+   232          11             0         10             9              1              // Archangel
+end
+
+
+4
+//=============================================================================================================================
+// Monster Events
+//=============================================================================================================================
+// Range:       [0~N]          [0~30]     [1~255]        [1~255]        [-1/0~8]       [1~1000]
+// Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+//=============================================================================================================================
+   84           11             30        14             34             0              // Chief Skeleton Warrior
+   84           11             30        14             38             0              // Chief Skeleton Warrior
+   84           11             30        15             31             0              // Chief Skeleton Warrior
+   84           11             30        15             45             0              // Chief Skeleton Warrior
+   85           11             30        13             23             0              // Chief Skeleton Archer
+   85           11             30        13             43             0              // Chief Skeleton Archer
+   85           11             30        14             21             0              // Chief Skeleton Archer
+   85           11             30        15             26             0              // Chief Skeleton Archer
+   85           11             30        15             30             0              // Chief Skeleton Archer
+   85           11             30        15             33             0              // Chief Skeleton Archer
+   85           11             30        15             43             0              // Chief Skeleton Archer
+   86           11             30        13             53             0              // Dark Skull Soldier
+   86           11             30        13             57             0              // Dark Skull Soldier
+   86           11             30        13             65             0              // Dark Skull Soldier
+   86           11             30        14             64             0              // Dark Skull Soldier
+   86           11             30        14             67             0              // Dark Skull Soldier
+   86           11             30        15             46             0              // Dark Skull Soldier
+   86           11             30        15             53             0              // Dark Skull Soldier
+   86           11             30        15             60             0              // Dark Skull Soldier
+   86           11             30        15             63             0              // Dark Skull Soldier
+   86           11             30        15             65             0              // Dark Skull Soldier
+   87           11             30        13             48             0              // Giant Ogre
+   87           11             30        13             55             0              // Giant Ogre
+   87           11             30        13             63             0              // Giant Ogre
+   87           11             30        13             69             0              // Giant Ogre
+   87           11             30        14             61             0              // Giant Ogre
+   87           11             30        14             70             0              // Giant Ogre
+   88           11             30        13             78             0              // Red Skeleton Knight
+   88           11             30        14             47             0              // Red Skeleton Knight
+   88           11             30        14             78             0              // Red Skeleton Knight
+   88           11             30        14             83             0              // Red Skeleton Knight
+   88           11             30        15             62             0              // Red Skeleton Knight
+   88           11             30        15             68             0              // Red Skeleton Knight
+   88           11             30        15             78             0              // Red Skeleton Knight
+   88           11             30        16             80             0              // Red Skeleton Knight
+   89           11             30        14             80             0              // Magic Skeleton
+   89           11             30        16             87             0              // Magic Skeleton
+   89           11             30        18             81             0              // Magic Skeleton
+end
+
+

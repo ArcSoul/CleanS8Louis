@@ -1,0 +1,59 @@
+0
+//==========================================================
+// See in https://www.youtube.com/watch?v=1YmL6b2wmsc
+// See in https://www.youtube.com/watch?v=aplY2-KSMcE
+//==========================================================
+// Index   ItemIndex   Comment
+//==========================================================
+   0       7378        //Summon Scroll (Lv1)
+   1       7379        //Summon Scroll (Lv2)
+   2       7380        //Summon Scroll (Lv3)
+   3       7381        //Summon Scroll (Lv4)
+   4       7385        //Titan's Anger
+   5       7386        //Tantalose's Punishment
+   6       7387        //Erohim's Nightmare
+   7       7388        //Hell Maine's Insanity
+   8       7389        //Kundun's Greed
+   9       7402        //Book of Monster Invocation
+end
+
+1
+//=======================================================================================
+// Index   Group   MonsterClass   CreateRate   GlobalMessage   Comment
+//=======================================================================================
+   0       0       647            10000        0               //Green Snake (green)
+   1       0       648            10000        0               //Yellow Snake (yellow)
+   2       0       649            10000        0               //Purple Snake (purple)
+   3       0       650            10000        0               //Red Snake (red)
+   4       0       653            10000        0               //Golden Titan
+   5       0       654            10000        0               //Golden Tantalose
+   6       0       655            10000        0               //Golden Erohim
+   7       0       656            10000        0               //Golden Hell Maine
+   8       0       657            10000        0               //Golden Kundun
+   8       1       654            10000        0               //Golden Tantalose
+   8       2       654            10000        0               //Golden Tantalose
+   8       3       654            10000        0               //Golden Tantalose
+   8       4       654            10000        0               //Golden Tantalose
+   9       0       674            3000         0               //Moon Rabbit
+   9       0       675            3000         0               //Pouch of Blessing
+   9       0       676            3000         0               //Fire Flame Ghost
+   9       0       677            1000         0               //Golden Goblin
+end
+
+2
+//==========================================
+// Map to use (Set -1 to all allow maps)
+//==========================================
+// Index   Map
+//==========================================
+   0       -1
+   1       -1
+   2       -1
+   3       -1
+   4       -1
+   5       -1
+   6       -1
+   7       -1
+   8       -1
+   9       -1
+end

@@ -1,0 +1,29 @@
+/////////////////////////////////////////////////////////////////////////////
+//Shop file created by Mu Editor MoMu Service [Shop Editor]
+//coded by © MoMu   
+//Decompiled by Virtual 
+///////////////////////////
+//Shop: SETS RF SIN SET 400 NO LO ENCONTRE
+0
+// -----------------------------------------------------------------------------------------------------------------------------------------
+// [00,000]    [0~15]      [0~255]      [0-1]         [0-1]        [0~7]       [0~63]      [Index]     [0~5]         [1~65536]
+// ItemIndex   ItemLevel   Durability   SkillSwitch   LuckSwitch   Aditional   Excellent   SetOption   SocketCount   CoinValue       Comment
+// -----------------------------------------------------------------------------------------------------------------------------------------
+   07,061      15          0            0             1            7           44          0           0             1               //Piercing Helm
+   07,073      15          0            0             1            7           44          0           0             1               //Phoenix Soul Helm
+   07,146      15          0            0             1            7           44          0           5             1               //Tigris Helm
+   07,147      15          0            0             1            7           44          0           5             1               //Crimson Skull Helm
+   08,061      15          0            0             1            7           44          0           0             1               //Piercing Armor
+   08,073      15          0            0             1            7           44          0           0             1               //Phoenix Soul Armor
+   08,146      15          0            0             1            7           44          0           5             1               //Tigris Armor
+   08,147      15          0            0             1            7           44          0           5             1               //Crimson Skull Armor
+   09,061      15          0            0             1            7           44          0           0             1               //Piercing Pants
+   09,073      15          0            0             1            7           44          0           0             1               //Phoenix Soul Pants
+   09,146      15          0            0             1            7           44          0           5             1               //Tigris Pants
+   09,147      15          0            0             1            7           44          0           5             1               //Crimson Skull Pants
+   11,061      15          0            0             1            7           44          0           0             1               //Piercing Boots
+   11,073      15          0            0             1            7           44          0           0             1               //Phoenix Soul Boots
+   11,146      15          0            0             1            7           44          0           5             1               //Tigris Boots
+   11,147      15          0            0             1            7           44          0           5             1               //Crimson Skull Boots
+   12,050      15          0            0             1            7           8           0           0             1               //ALAS S3
+end

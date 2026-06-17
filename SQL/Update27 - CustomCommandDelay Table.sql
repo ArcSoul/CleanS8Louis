@@ -1,0 +1,10 @@
+CREATE TABLE [dbo].[CustomCommandDelay](
+	[Name] [varchar](10) NOT NULL,
+	[Command] [smallint] NOT NULL,
+	[Delay] [int] NOT NULL,
+ CONSTRAINT [PK_CommandDelay] PRIMARY KEY CLUSTERED 
+(
+	[Name] ASC,
+	[Command] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]

@@ -1,0 +1,12 @@
+//========================================================
+// See in https://www.youtube.com/watch?v=LL15BruXG8Y
+//========================================================
+//  Max 20
+//========================================================
+//  ServerName      SubServerNumber   ServerText
+//========================================================
+//  "Server 1 PVP"  1                 "Canal 1 (PVP)"
+//  "Server 2 PVP"  2                 "Canal 2 (PVP)"
+//  "Server 3 PVP"  2                 "Canal 3 (PVP)"
+//  "ServerCS"      19                "Server CS"
+end

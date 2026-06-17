@@ -1,0 +1,57 @@
+****************************************************************************************************************************
+?? 1. Changelog Unificado (V1 + V1.1)
+?? PvP Kill System ¡X Changelog
+?? SSeMU Professional Edition
+****************************************************************************************************************************
+?? 1. Arquitectura de Base de Datos (SQL)
+??? Separacion de Datos: Implementacion de arquitectura de doble nucleo:
+
+PvP_Ranking: Tabla maestra para estadisticas permanentes (Kills/Deaths). Optimizada para Rankings Web.
+
+PvP_KillLog: Tabla transaccional para auditoria detallada y control de fechas.
+
+?? [NEW V1.1] Higienizacion Automatica: Integracion de logica de mantenimiento via tabla PvP_LogControl.
+
+El sistema detecta autonomamente ciclos de 12 horas.
+
+Ejecucion automatica de TRUNCATE en logs para garantizar una base de datos liviana y veloz.
+
+? [NEW V1.1] Optimizacion Atomica: El SP WZ_PvP_AddKill utiliza ahora actualizaciones directas (UPDATE +1).
+
+Se elimino el conteo de filas (COUNT), erradicando el lag en tablas de gran volumen.
+
+?? Correccion de Tipos: Ajuste de longitud en Name de VARCHAR(10) a VARCHAR(12) para total compatibilidad con clientes modernos.
+
+****************************************************************************************************************************
+
+?? 2. Logica del Script (Lua)
+?? [NEW V1.1] Modularidad por Switches: Se rediseno el script bajo un esquema de "Switches Independientes" en el archivo de configuracion.
+
+?? [NEW V1.1] Switch Maestro: Inclusion de PvPKillConfig.Enabled para apagado total del script.
+
+?? [NEW V1.1] Switch SQL: Inclusion de DatabaseEnabled para activar/desactivar la escritura en DB.
+
+?? Control de Flooding: Integracion de tabla AntiDuplicate con cooldown de 2 segundos.
+
+Previene doble conteo por lag o habilidades de dano por segundo (DoT).
+
+?? Manejo Asincrono: Uso estricto de SQLAsyncQuery.
+
+Garantiza que el GameServer no sufra "freezes" ni latencia durante la comunicacion con el SQL.
+
+??? Estandarizacion de Mapas: Validacion mejorada para GetMapName.
+
+Sistema de seguridad que evita crasheos, mostrando "Mapa Desconocido" ante codigos inexistentes.
+
+****************************************************************************************************************************
+
+?? 3. Interfaz y Experiencia (UX)
+?? Variedad Visual: Nueva libreria de frases aleatorias (Phrases).
+
+Estilos competitivos inspirados en PUBG, COD y LOL para dinamizar los anuncios.
+
+?? [NEW V1.1] Switch de Anuncios: Inclusion de AnnounceEnabled para activar/desactivar avisos globales.
+
+?? [NEW V1.1] Formateo Estetico: Soporte para AnnounceUpper configurable para forzar o no el uso de MAYUSCULAS.
+
+??? Configuracion Simplificada: PvPKillConfig.lua centralizado y 100% comentado.

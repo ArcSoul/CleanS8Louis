@@ -1,0 +1,57 @@
+//===============================================================================================================================================
+// ItemIndex   EffectIndex   EffectValue   EffectLevel   ColorR   ColorG   ColorB   EffectType   EffectSize   ColorSide   Comment
+//===============================================================================================================================================
+   6410        32077         47            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Conqueror
+   6410        32077         24            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Conqueror
+   6410        32077         31            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Conqueror
+   6410        32077         40            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Conqueror
+   6410        32077         8             0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Conqueror
+   6410        32077         17            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Conqueror
+   6410        32077         46            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Conqueror
+   6410        32077         23            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Conqueror
+   6410        32077         35            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Conqueror
+   6410        32077         39            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Conqueror
+   6410        32077         44            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Conqueror
+   6410        32077         45            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Conqueror
+   6410        32077         12            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Conqueror
+   6410        32077         16            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Conqueror
+   6410        32077         21            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Conqueror
+   6410        32077         22            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Conqueror
+   6410        32077         61            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Conqueror
+   6410        32077         60            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Conqueror
+   6410        32077         59            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Conqueror
+   6410        32077         62            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Conqueror
+   6410        32077         55            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Conqueror
+   6410        32077         52            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Conqueror
+   6410        32077         53            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Conqueror
+   6410        32077         54            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Conqueror
+   6415        32077         47            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Dark Satan
+   6415        32077         24            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Dark Satan
+   6415        32113         31            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Dark Satan
+   6415        32113         40            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Dark Satan
+   6415        32113         8             0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Dark Satan
+   6415        32077         17            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Dark Satan
+   6415        32113         46            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Dark Satan
+   6415        32113         23            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Dark Satan
+   6415        32113         35            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Dark Satan
+   6415        32113         39            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Dark Satan
+   6415        32113         44            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Dark Satan
+   6415        32113         45            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Dark Satan
+   6415        32113         12            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Dark Satan
+   6415        32113         16            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Dark Satan
+   6415        32077         21            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Dark Satan
+   6415        32113         22            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Dark Satan
+   6415        32113         61            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Dark Satan
+   6415        32077         60            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Dark Satan
+   6415        32077         59            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Dark Satan
+   6415        32077         62            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Dark Satan
+   6415        32077         55            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Dark Satan
+   6415        32113         52            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Dark Satan
+   6415        32113         53            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Dark Satan
+   6415        32113         54            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Dark Satan
+   6415        32077         00            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Dark Satan
+   6415        32113         01            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Dark Satan
+   6415        32077         02            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Dark Satan
+   6415        32113         03            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Dark Satan
+   6415        32113         04            0             2.5      0.5      0.5      9.0          0.5          0.5         // Wing of Dark Satan
+end

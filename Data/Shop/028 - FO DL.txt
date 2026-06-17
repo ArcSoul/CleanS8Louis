@@ -1,0 +1,32 @@
+/////////////////////////////////////////////////////////////////////////////
+//Shop file created by Mu Editor MoMu Service [Shop Editor]
+//coded by © MoMu   
+//Decompiled by Virtual 
+///////////////////////////
+//Shop: SETS DL
+0
+// -----------------------------------------------------------------------------------------------------------------------------------------
+// Section   Type   Level   Dur   Skill   Luck   Option   ExcOp   SetOp   JoH   OEx   Socket1   Socket2   Socket3   Socket4   Socket5   SocketBonus   Duration
+// -----------------------------------------------------------------------------------------------------------------------------------------
+   07        027    15      0     0       1      7        44      0       125   0     255       255       255       255       255       255           0           //Excellent Dark Steel Mask
+   07        028    15      0     0       1      7        44      0       125   0     255       255       255       255       255       255           0           //Excellent Dark Master Mask
+   07        033    15      0     0       1      7        44      0       125   128   255       255       255       255       255       255           0           //Excellent Sunlight Mask
+   07        051    15      0     0       1      7        44      0       0     0     213       210       212       211       222       4             0           //Excellent Royal Mask
+   08        027    15      0     0       1      7        44      0       125   0     255       255       255       255       255       255           0           //Excellent Dark Steel Armor
+   08        028    15      0     0       1      7        44      0       125   0     255       255       255       255       255       255           0           //Excellent Dark Master Armor
+   08        033    15      0     0       1      7        44      0       125   128   255       255       255       255       255       255           0           //Excellent Sunlight Armor
+   08        051    15      0     0       1      7        44      0       0     0     213       210       212       211       236       4             0           //Excellent Royal Armor
+   09        027    15      0     0       1      7        44      0       125   0     255       255       255       255       255       255           0           //Excellent Dark Steel Pants
+   09        028    15      0     0       1      7        44      0       125   0     255       255       255       255       255       255           0           //Excellent Dark Master Pants
+   09        033    15      0     0       1      7        44      0       125   128   255       255       255       255       255       255           0           //Excellent Sunlight Pants
+   09        051    15      0     0       1      7        44      0       0     0     213       210       212       211       236       4             0           //Excellent Royal Pants
+   10        027    15      0     0       1      7        44      0       125   0     255       255       255       255       255       255           0           //Excellent Dark Steel Gloves
+   10        028    15      0     0       1      7        44      0       125   0     255       255       255       255       255       255           0           //Excellent Dark Master Gloves
+   10        033    15      0     0       1      7        44      0       125   128   255       255       255       255       255       255           0           //Excellent Sunlight Gloves
+   10        051    15      0     0       1      7        44      0       0     0     213       210       212       211       222       4             0           //Excellent Royal Gloves
+   11        027    15      0     0       1      7        44      0       125   0     255       255       255       255       255       255           0           //Excellent Dark Steel Boots
+   11        028    15      0     0       1      7        44      0       125   0     255       255       255       255       255       255           0           //Excellent Dark Master Boots
+   11        033    15      0     0       1      7        44      0       125   128   255       255       255       255       255       255           0           //Excellent Sunlight Boots
+   11        051    15      0     0       1      7        44      0       0     0     213       210       212       211       222       4             0           //Excellent Royal Boots
+   12        040    15      0     0       1      7        8       0       0     128   255       255       255       255       255       255           0           //ALAS S3 LE
+end   

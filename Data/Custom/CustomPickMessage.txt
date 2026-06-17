@@ -1,0 +1,18 @@
+//==============================================================================
+// Custom Pick Message System - Show message when picking up the item
+// by louis
+//==============================================================================
+// See in https://www.youtube.com/watch?v=FpGOb7zd76M
+//==============================================================================
+// Config
+//==============================================================================
+// ItemIndex = (Item Group * 512) + ItemIndex 
+// ItemLevel = Item level
+// Message   = Message number from Message_xxx.txt (0 shows the item name only)
+//==============================================================================
+// ItemIndex   ItemLevel   Message   Description
+//==============================================================================
+   6159        *           0         //Jewel of Chaos
+   7181        *           0         //Jewel of Bless
+   7182        *           0         //Jewel of Soul
+end
