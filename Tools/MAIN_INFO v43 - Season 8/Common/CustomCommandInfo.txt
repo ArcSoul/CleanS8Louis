@@ -45,6 +45,6 @@
    32   2       "/unpack <type> <quantity>"       "Command for unpack jewels"
    33   5       "/setparty <password>"            "Create a new password party"
    34   5       "/joinparty <password>"           "Join the password party"
-   35   1       "/takeover <Name>"                "Send this command to check the player activity"
+   35   1       "/takeover <Name>"                "Send this command to check player"
    36   1       "/replyto"                        "Reply to keep the activity"
 end
