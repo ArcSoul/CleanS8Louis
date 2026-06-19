@@ -9,6 +9,6 @@ require('Util\\Defines')
 require('Util\\KeysValue')
 require('Util\\Json')
 
-requirefolder('Scripts\\TesteProtocol')		-- SAMPLE
-requirefolder('Scripts\\WindowTitle')		-- SAMPLE
-requirefolder('Scripts\\NewWindow')			-- SAMPLE
+--requirefolder('Scripts\\TesteProtocol')		-- SAMPLE
+--requirefolder('Scripts\\WindowTitle')		-- SAMPLE
+--requirefolder('Scripts\\NewWindow')			-- SAMPLE
